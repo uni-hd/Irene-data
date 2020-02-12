@@ -1,0 +1,610 @@
+experiment	factor	condition	ipReads
+1	H3K27ac	Chronic Lymphocytic Leukaemia	hg38/counts/A34024.CEMT_4.H3K27ac.hg38.A34024_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K27ac	Chronic Lymphocytic Leukaemia	hg38/counts/A34040.CEMT_5.H3K27ac.hg38.A34040_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K27ac	Chronic Lymphocytic Leukaemia	hg38/counts/A34079.CEMT_6.H3K27ac.hg38.A34079_3_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K27ac	Chronic Lymphocytic Leukaemia	hg38/counts/A35241.CEMT_25.H3K27ac.hg38.A35241_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K27ac	Chronic Lymphocytic Leukaemia	hg38/counts/A34943.CEMT_26.H3K27ac.hg38.A34943_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K27ac	Chronic Lymphocytic Leukaemia	hg38/counts/A34950.CEMT_27.H3K27ac.hg38.A34950_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K27ac	Chronic Lymphocytic Leukaemia	hg38/counts/A34957.CEMT_28.H3K27ac.hg38.A34957_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K27ac	Chronic Lymphocytic Leukaemia	hg38/counts/A34964.CEMT_29.H3K27ac.hg38.A34964_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K27ac	Chronic Lymphocytic Leukaemia	hg38/counts/A35248.CEMT_30.H3K27ac.hg38.A35248_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K27ac	Chronic Lymphocytic Leukaemia	hg38/counts/A60648.CEMT_94.H3K27ac.hg38.A60648_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K27ac	Chronic Lymphocytic Leukaemia	hg38/counts/A60655.CEMT_95.H3K27ac.hg38.bwa-sb.IX4413.C958UANXX_6_CGATGT.q5.F3332.PET.wig.cnt.gz
+1	H3K27ac	Chronic Lymphocytic Leukaemia	hg38/counts/A60662.CEMT_96.H3K27ac.hg38.A60662_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K27ac	Chronic Lymphocytic Leukaemia	hg38/counts/A60665.CEMT_97.H3K27ac.hg38.A60665_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K27me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34022.CEMT_4.H3K27me3.hg38.bwa-sb.IX2655.C3YJAACXX_4_AAGCGA.q5.F3332.PET.wig.cnt.gz
+1	H3K27me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34038.CEMT_5.H3K27me3.hg38.bwa-sb.IX2843.C3RULACXX_1_ACCCAG.q5.F3332.PET.wig.cnt.gz
+1	H3K27me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34077.CEMT_6.H3K27me3.hg38.bwa-sb.IX2843.C3RULACXX_1_TGAATG.q5.F3332.PET.wig.cnt.gz
+1	H3K27me3	Chronic Lymphocytic Leukaemia	hg38/counts/A35239.CEMT_25.H3K27me3.hg38.bwa-sb.IX2650.C3THCACXX_4_CTCAGA.q5.F3332.PET.wig.cnt.gz
+1	H3K27me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34941.CEMT_26.H3K27me3.hg38.bwa-sb.IX2650.C3THCACXX_4_AAGCGA.q5.F3332.PET.wig.cnt.gz
+1	H3K27me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34948.CEMT_27.H3K27me3.hg38.bwa-sb.IX2655.C3YJAACXX_4_ACCCAG.q5.F3332.PET.wig.cnt.gz
+1	H3K27me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34955.CEMT_28.H3K27me3.hg38.bwa-sb.IX2655.C3YJAACXX_4_TGAATG.q5.F3332.PET.wig.cnt.gz
+1	H3K27me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34962.CEMT_29.H3K27me3.hg38.bwa-sb.IX2655.C3YJAACXX_4_CAACTA.q5.F3332.PET.wig.cnt.gz
+1	H3K27me3	Chronic Lymphocytic Leukaemia	hg38/counts/A35246.CEMT_30.H3K27me3.hg38.bwa-sb.IX2655.C3YJAACXX_4_TTAGGC.q5.F3332.PET.wig.cnt.gz
+1	H3K27me3	Chronic Lymphocytic Leukaemia	hg38/counts/A60646.CEMT_94.H3K27me3.hg38.bwa-sb.IX4416.C9587ANXX_1_ACCCAG.q5.F3332.PET.wig.cnt.gz
+1	H3K27me3	Chronic Lymphocytic Leukaemia	hg38/counts/A60653.CEMT_95.H3K27me3.hg38.bwa-sb.IX4416.C9587ANXX_1_TGAATG.q5.F3332.PET.wig.cnt.gz
+1	H3K27me3	Chronic Lymphocytic Leukaemia	hg38/counts/A60660.CEMT_96.H3K27me3.hg38.bwa-sb.IX4416.C9587ANXX_1_CAACTA.q5.F3332.PET.wig.cnt.gz
+1	H3K27me3	Chronic Lymphocytic Leukaemia	hg38/counts/A60667.CEMT_97.H3K27me3.hg38.bwa-sb.IX4419.C9587ANXX_4_TTAGGC.q5.F3332.PET.wig.cnt.gz
+1	H3K36me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34023.CEMT_4.H3K36me3.hg38.bwa-sb.IX2824.C3YJAACXX_6_ACTCTC.q5.F3332.PET.wig.cnt.gz
+1	H3K36me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34039.CEMT_5.H3K36me3.hg38.bwa-sb.IX2845.C4C9JACXX_3_AGCGCT.q5.F3332.PET.wig.cnt.gz
+1	H3K36me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34078.CEMT_6.H3K36me3.hg38.bwa-sb.IX2845.C4C9JACXX_3_AGTTCC.q5.F3332.PET.wig.cnt.gz
+1	H3K36me3	Chronic Lymphocytic Leukaemia	hg38/counts/A35240.CEMT_25.H3K36me3.hg38.bwa-sb.IX2652.C3TC1ACXX_2_GCACTT.q5.F3332.PET.wig.cnt.gz
+1	H3K36me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34942.CEMT_26.H3K36me3.hg38.bwa-sb.IX2652.C3TC1ACXX_2_ACTCTC.q5.F3332.PET.wig.cnt.gz
+1	H3K36me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34949.CEMT_27.H3K36me3.hg38.bwa-sb.IX2824.C3YJAACXX_6_AGCGCT.q5.F3332.PET.wig.cnt.gz
+1	H3K36me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34956.CEMT_28.H3K36me3.hg38.bwa-sb.IX2824.C3YJAACXX_6_AGTTCC.q5.F3332.PET.wig.cnt.gz
+1	H3K36me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34963.CEMT_29.H3K36me3.hg38.bwa-sb.IX2824.C3YJAACXX_6_CCACGC.q5.F3332.PET.wig.cnt.gz
+1	H3K36me3	Chronic Lymphocytic Leukaemia	hg38/counts/A35247.CEMT_30.H3K36me3.hg38.bwa-sb.IX2824.C3YJAACXX_6_GGCTAC.q5.F3332.PET.wig.cnt.gz
+1	H3K36me3	Chronic Lymphocytic Leukaemia	hg38/counts/A60647.CEMT_94.H3K36me3.hg38.bwa-sb.IX4417.C9587ANXX_2_AGCGCT.q5.F3332.PET.wig.cnt.gz
+1	H3K36me3	Chronic Lymphocytic Leukaemia	hg38/counts/A60654.CEMT_95.H3K36me3.hg38.bwa-sb.IX4417.C9587ANXX_2_AGTTCC.q5.F3332.PET.wig.cnt.gz
+1	H3K36me3	Chronic Lymphocytic Leukaemia	hg38/counts/A60661.CEMT_96.H3K36me3.hg38.bwa-sb.IX4417.C9587ANXX_2_CCACGC.q5.F3332.PET.wig.cnt.gz
+1	H3K36me3	Chronic Lymphocytic Leukaemia	hg38/counts/A60666.CEMT_97.H3K36me3.hg38.bwa-sb.IX4419.C9587ANXX_4_ATGTCA.q5.F3332.PET.wig.cnt.gz
+1	H3K4me1	Chronic Lymphocytic Leukaemia	hg38/counts/A34019.CEMT_4.H3K4me1.hg38.A34019_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K4me1	Chronic Lymphocytic Leukaemia	hg38/counts/A34035.CEMT_5.H3K4me1.hg38.A34035_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K4me1	Chronic Lymphocytic Leukaemia	hg38/counts/A34074.CEMT_6.H3K4me1.hg38.A34074_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K4me1	Chronic Lymphocytic Leukaemia	hg38/counts/A35236.CEMT_25.H3K4me1.hg38.A35236_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K4me1	Chronic Lymphocytic Leukaemia	hg38/counts/A34938.CEMT_26.H3K4me1.hg38.A34938_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K4me1	Chronic Lymphocytic Leukaemia	hg38/counts/A34945.CEMT_27.H3K4me1.hg38.A34945_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K4me1	Chronic Lymphocytic Leukaemia	hg38/counts/A34952.CEMT_28.H3K4me1.hg38.A34952_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K4me1	Chronic Lymphocytic Leukaemia	hg38/counts/A34959.CEMT_29.H3K4me1.hg38.A34959_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K4me1	Chronic Lymphocytic Leukaemia	hg38/counts/A35243.CEMT_30.H3K4me1.hg38.A35243_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K4me1	Chronic Lymphocytic Leukaemia	hg38/counts/A60643.CEMT_94.H3K4me1.hg38.bwa-sb.IX4413.C958UANXX_6_ATCACG.q5.F3332.PET.wig.cnt.gz
+1	H3K4me1	Chronic Lymphocytic Leukaemia	hg38/counts/A60650.CEMT_95.H3K4me1.hg38.bwa-sb.IX4414.C958UANXX_7_CTAGCT.q5.F3332.PET.wig.cnt.gz
+1	H3K4me1	Chronic Lymphocytic Leukaemia	hg38/counts/A60657.CEMT_96.H3K4me1.hg38.bwa-sb.IX4414.C958UANXX_7_AACTTG.q5.F3332.PET.wig.cnt.gz
+1	H3K4me1	Chronic Lymphocytic Leukaemia	hg38/counts/A60670.CEMT_97.H3K4me1.hg38.bwa-sb.IX4412.C958UANXX_5_ACGATA.q5.F3332.PET.wig.cnt.gz
+1	H3K4me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34020.CEMT_4.H3K4me3.hg38.A34020_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K4me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34036.CEMT_5.H3K4me3.hg38.A34036_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K4me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34075.CEMT_6.H3K4me3.hg38.A34075_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K4me3	Chronic Lymphocytic Leukaemia	hg38/counts/A35237.CEMT_25.H3K4me3.hg38.A35237_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K4me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34939.CEMT_26.H3K4me3.hg38.A34939_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K4me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34946.CEMT_27.H3K4me3.hg38.A34946_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K4me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34953.CEMT_28.H3K4me3.hg38.A34953_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K4me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34960.CEMT_29.H3K4me3.hg38.A34960_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K4me3	Chronic Lymphocytic Leukaemia	hg38/counts/A35244.CEMT_30.H3K4me3.hg38.A35244_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K4me3	Chronic Lymphocytic Leukaemia	hg38/counts/A60644.CEMT_94.H3K4me3.hg38.bwa-sb.IX4412.C958UANXX_5_GATCAG.q5.F3332.PET.wig.cnt.gz
+1	H3K4me3	Chronic Lymphocytic Leukaemia	hg38/counts/A60651.CEMT_95.H3K4me3.hg38.bwa-sb.IX4412.C958UANXX_5_GATGCT.q5.F3332.PET.wig.cnt.gz
+1	H3K4me3	Chronic Lymphocytic Leukaemia	hg38/counts/A60658.CEMT_96.H3K4me3.hg38.A60658_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K4me3	Chronic Lymphocytic Leukaemia	hg38/counts/A60669.CEMT_97.H3K4me3.hg38.A60669_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+1	H3K9me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34021.CEMT_4.H3K9me3.hg38.bwa-sb.IX2823.C3YJAACXX_5_CTTGTA.q5.F3332.PET.wig.cnt.gz
+1	H3K9me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34037.CEMT_5.H3K9me3.hg38.bwa-sb.IX2844.C4C9JACXX_2_AACCCC.q5.F3332.PET.wig.cnt.gz
+1	H3K9me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34076.CEMT_6.H3K9me3.hg38.bwa-sb.IX2844.C4C9JACXX_2_TAATCG.q5.F3332.PET.wig.cnt.gz
+1	H3K9me3	Chronic Lymphocytic Leukaemia	hg38/counts/A35238.CEMT_25.H3K9me3.hg38.bwa-sb.IX2651.C3TC1ACXX_1_CCCATG.q5.F3332.PET.wig.cnt.gz
+1	H3K9me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34940.CEMT_26.H3K9me3.hg38.bwa-sb.IX2651.C3TC1ACXX_1_CTTGTA.q5.F3332.PET.wig.cnt.gz
+1	H3K9me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34947.CEMT_27.H3K9me3.hg38.bwa-sb.IX2823.C3YJAACXX_5_AACCCC.q5.F3332.PET.wig.cnt.gz
+1	H3K9me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34954.CEMT_28.H3K9me3.hg38.bwa-sb.IX2823.C3YJAACXX_5_TAATCG.q5.F3332.PET.wig.cnt.gz
+1	H3K9me3	Chronic Lymphocytic Leukaemia	hg38/counts/A34961.CEMT_29.H3K9me3.hg38.bwa-sb.IX2823.C3YJAACXX_5_AGGCCG.q5.F3332.PET.wig.cnt.gz
+1	H3K9me3	Chronic Lymphocytic Leukaemia	hg38/counts/A35245.CEMT_30.H3K9me3.hg38.bwa-sb.IX2823.C3YJAACXX_5_ATGTCA.q5.F3332.PET.wig.cnt.gz
+1	H3K9me3	Chronic Lymphocytic Leukaemia	hg38/counts/A60645.CEMT_94.H3K9me3.hg38.bwa-sb.IX4415.C958UANXX_8_AACCCC.q5.F3332.PET.wig.cnt.gz
+1	H3K9me3	Chronic Lymphocytic Leukaemia	hg38/counts/A60652.CEMT_95.H3K9me3.hg38.bwa-sb.IX4415.C958UANXX_8_TAATCG.q5.F3332.PET.wig.cnt.gz
+1	H3K9me3	Chronic Lymphocytic Leukaemia	hg38/counts/A60659.CEMT_96.H3K9me3.hg38.bwa-sb.IX4415.C958UANXX_8_AGGCCG.q5.F3332.PET.wig.cnt.gz
+1	H3K9me3	Chronic Lymphocytic Leukaemia	hg38/counts/A60668.CEMT_97.H3K9me3.hg38.bwa-sb.IX4419.C9587ANXX_4_GGCTAC.q5.F3332.PET.wig.cnt.gz
+1	H3K4me1	Healthy	hg38/counts/S0159LH1.ERX1007461.H3K4me1.bwa.GRCh38.20151029.cnt.gz
+1	H3K9me3	Healthy	hg38/counts/S0159LH1.ERX1007462.H3K9me3.bwa.GRCh38.20151029.cnt.gz
+1	H3K27ac	Healthy	hg38/counts/S0159LH1.ERX1007481.H3K27ac.bwa.GRCh38.20151029.cnt.gz
+1	H3K36me3	Healthy	hg38/counts/S0159LH1.ERX1007482.H3K36me3.bwa.GRCh38.20151029.cnt.gz
+1	H3K27me3	Healthy	hg38/counts/S0159LH1.ERX1007483.H3K27me3.bwa.GRCh38.20151029.cnt.gz
+1	H3K4me3	Healthy	hg38/counts/S0159LH1.ERX1122444.H3K4me3.bwa.GRCh38.20151029.cnt.gz
+1	H3K27me3	Healthy	hg38/counts/S00X9SH1.ERX712739.H3K27me3.bwa.GRCh38.20150529.cnt.gz
+1	H3K36me3	Healthy	hg38/counts/S00X9SH1.ERX712740.H3K36me3.bwa.GRCh38.20150529.cnt.gz
+1	H3K4me1	Healthy	hg38/counts/S00X9SH1.ERX712741.H3K4me1.bwa.GRCh38.20150529.cnt.gz
+1	H3K4me3	Healthy	hg38/counts/S00X9SH1.ERX712777.H3K4me3.bwa.GRCh38.20150529.cnt.gz
+1	H3K27ac	Healthy	hg38/counts/S00X9SH1.ERX712778.H3K27ac.bwa.GRCh38.20150529.cnt.gz
+1	H3K9me3	Healthy	hg38/counts/S00X9SH1.ERX712779.H3K9me3.bwa.GRCh38.20150529.cnt.gz
+1	H3K4me1	Healthy	hg38/counts/S00XAQH1.ERX1295588.H3K4me1.bwa.GRCh38.20160126.cnt.gz
+1	H3K4me3	Healthy	hg38/counts/S00XAQH1.ERX712759.H3K4me3.bwa.GRCh38.20150528.cnt.gz
+1	H3K27ac	Healthy	hg38/counts/S00XAQH1.ERX712760.H3K27ac.bwa.GRCh38.20150529.cnt.gz
+1	H3K36me3	Healthy	hg38/counts/S00XAQH1.ERX712761.H3K36me3.bwa.GRCh38.20150529.cnt.gz
+1	H3K9me3	Healthy	hg38/counts/S00XAQH1.ERX712762.H3K9me3.bwa.GRCh38.20150529.cnt.gz
+1	H3K27me3	Healthy	hg38/counts/S00XAQH1.ERX712763.H3K27me3.bwa.GRCh38.20150529.cnt.gz
+1	H3K27ac	Healthy	hg38/counts/S00W1BH1.ERX712695.H3K27ac.bwa.GRCh38.20150528.cnt.gz
+1	H3K36me3	Healthy	hg38/counts/S00W1BH1.ERX712696.H3K36me3.bwa.GRCh38.20150529.cnt.gz
+1	H3K4me1	Healthy	hg38/counts/S00W1BH1.ERX712697.H3K4me1.bwa.GRCh38.20150528.cnt.gz
+1	H3K9me3	Healthy	hg38/counts/S00W1BH1.ERX712698.H3K9me3.bwa.GRCh38.20150529.cnt.gz
+1	H3K4me3	Healthy	hg38/counts/S00W1BH1.ERX712717.H3K4me3.bwa.GRCh38.20150529.cnt.gz
+1	H3K27me3	Healthy	hg38/counts/S00W1BH1.ERX712775.H3K27me3.bwa.GRCh38.20150529.cnt.gz
+2	H3K27ac	Healthy	hg19/counts/BI.Brain_Angular_Gyrus.H3K27ac.149.hg19.cnt.gz
+2	H3K27me3	Healthy	hg19/counts/BI.Brain_Angular_Gyrus.H3K27me3.149.hg19.cnt.gz
+2	H3K36me3	Healthy	hg19/counts/BI.Brain_Angular_Gyrus.H3K36me3.149.hg19.cnt.gz
+2	H3K4me1	Healthy	hg19/counts/BI.Brain_Angular_Gyrus.H3K4me1.149.hg19.cnt.gz
+2	H3K4me3	Healthy	hg19/counts/BI.Brain_Angular_Gyrus.H3K4me3.149.hg19.cnt.gz
+2	H3K9me3	Healthy	hg19/counts/BI.Brain_Angular_Gyrus.H3K9me3.149.hg19.cnt.gz
+2	H3K27ac	Healthy	hg19/counts/BI.Brain_Anterior_Caudate.H3K27ac.112.hg19.cnt.gz
+2	H3K27ac	Healthy	hg19/counts/BI.Brain_Anterior_Caudate.H3K27ac.149.hg19.cnt.gz
+2	H3K27me3	Healthy	hg19/counts/BI.Brain_Anterior_Caudate.H3K27me3.112.hg19.cnt.gz
+2	H3K27me3	Healthy	hg19/counts/BI.Brain_Anterior_Caudate.H3K27me3.149.hg19.cnt.gz
+2	H3K36me3	Healthy	hg19/counts/BI.Brain_Anterior_Caudate.H3K36me3.112.hg19.cnt.gz
+2	H3K36me3	Healthy	hg19/counts/BI.Brain_Anterior_Caudate.H3K36me3.149.hg19.cnt.gz
+2	H3K4me1	Healthy	hg19/counts/BI.Brain_Anterior_Caudate.H3K4me1.112.hg19.cnt.gz
+2	H3K4me1	Healthy	hg19/counts/BI.Brain_Anterior_Caudate.H3K4me1.149.hg19.cnt.gz
+2	H3K4me3	Healthy	hg19/counts/BI.Brain_Anterior_Caudate.H3K4me3.112.hg19.cnt.gz
+2	H3K4me3	Healthy	hg19/counts/BI.Brain_Anterior_Caudate.H3K4me3.149.hg19.cnt.gz
+2	H3K9me3	Healthy	hg19/counts/BI.Brain_Anterior_Caudate.H3K9me3.112.hg19.cnt.gz
+2	H3K9me3	Healthy	hg19/counts/BI.Brain_Anterior_Caudate.H3K9me3.149.hg19.cnt.gz
+2	H3K27ac	Healthy	hg19/counts/BI.Brain_Cingulate_Gyrus.H3K27ac.112.hg19.cnt.gz
+2	H3K27ac	Healthy	hg19/counts/BI.Brain_Cingulate_Gyrus.H3K27ac.149.hg19.cnt.gz
+2	H3K27me3	Healthy	hg19/counts/BI.Brain_Cingulate_Gyrus.H3K27me3.149.hg19.cnt.gz
+2	H3K36me3	Healthy	hg19/counts/BI.Brain_Cingulate_Gyrus.H3K36me3.112.hg19.cnt.gz
+2	H3K36me3	Healthy	hg19/counts/BI.Brain_Cingulate_Gyrus.H3K36me3.149.hg19.cnt.gz
+2	H3K4me1	Healthy	hg19/counts/BI.Brain_Cingulate_Gyrus.H3K4me1.112.hg19.cnt.gz
+2	H3K4me1	Healthy	hg19/counts/BI.Brain_Cingulate_Gyrus.H3K4me1.149.hg19.cnt.gz
+2	H3K4me3	Healthy	hg19/counts/BI.Brain_Cingulate_Gyrus.H3K4me3.112.hg19.cnt.gz
+2	H3K4me3	Healthy	hg19/counts/BI.Brain_Cingulate_Gyrus.H3K4me3.149.hg19.cnt.gz
+2	H3K9me3	Healthy	hg19/counts/BI.Brain_Cingulate_Gyrus.H3K9me3.112.hg19.cnt.gz
+2	H3K9me3	Healthy	hg19/counts/BI.Brain_Cingulate_Gyrus.H3K9me3.149.hg19.cnt.gz
+2	H3K27me3	Healthy	hg19/counts/UCSF-UBC.Brain_Germinal_Matrix.H3K27me3.HuFGM02.hg19.cnt.gz
+2	H3K36me3	Healthy	hg19/counts/UCSF-UBC.Brain_Germinal_Matrix.H3K36me3.HuFGM02.hg19.cnt.gz
+2	H3K4me1	Healthy	hg19/counts/UCSF-UBC.Brain_Germinal_Matrix.H3K4me1.HuFGM02.hg19.cnt.gz
+2	H3K4me3	Healthy	hg19/counts/UCSF-UBC.Brain_Germinal_Matrix.H3K4me3.HuFGM02.hg19.cnt.gz
+2	H3K9me3	Healthy	hg19/counts/UCSF-UBC.Brain_Germinal_Matrix.H3K9me3.HuFGM02.hg19.cnt.gz
+2	H3K27ac	Healthy	hg19/counts/BI.Brain_Hippocampus_Middle.H3K27ac.112.hg19.cnt.gz
+2	H3K27ac	Healthy	hg19/counts/BI.Brain_Hippocampus_Middle.H3K27ac.149.hg19.cnt.gz
+2	H3K27ac	Healthy	hg19/counts/BI.Brain_Hippocampus_Middle.H3K27ac.150.hg19.cnt.gz
+2	H3K27me3	Healthy	hg19/counts/BI.Brain_Hippocampus_Middle.H3K27me3.112.hg19.cnt.gz
+2	H3K27me3	Healthy	hg19/counts/BI.Brain_Hippocampus_Middle.H3K27me3.149.hg19.cnt.gz
+2	H3K27me3	Healthy	hg19/counts/BI.Brain_Hippocampus_Middle.H3K27me3.150.hg19.cnt.gz
+2	H3K36me3	Healthy	hg19/counts/BI.Brain_Hippocampus_Middle.H3K36me3.112.hg19.cnt.gz
+2	H3K36me3	Healthy	hg19/counts/BI.Brain_Hippocampus_Middle.H3K36me3.149.hg19.cnt.gz
+2	H3K36me3	Healthy	hg19/counts/BI.Brain_Hippocampus_Middle.H3K36me3.150.hg19.cnt.gz
+2	H3K4me1	Healthy	hg19/counts/BI.Brain_Hippocampus_Middle.H3K4me1.112.hg19.cnt.gz
+2	H3K4me1	Healthy	hg19/counts/BI.Brain_Hippocampus_Middle.H3K4me1.149.hg19.cnt.gz
+2	H3K4me1	Healthy	hg19/counts/BI.Brain_Hippocampus_Middle.H3K4me1.150.hg19.cnt.gz
+2	H3K4me3	Healthy	hg19/counts/BI.Brain_Hippocampus_Middle.H3K4me3.112.hg19.cnt.gz
+2	H3K4me3	Healthy	hg19/counts/BI.Brain_Hippocampus_Middle.H3K4me3.149.hg19.cnt.gz
+2	H3K4me3	Healthy	hg19/counts/BI.Brain_Hippocampus_Middle.H3K4me3.150.hg19.cnt.gz
+2	H3K9me3	Healthy	hg19/counts/BI.Brain_Hippocampus_Middle.H3K9me3.112.hg19.cnt.gz
+2	H3K9me3	Healthy	hg19/counts/BI.Brain_Hippocampus_Middle.H3K9me3.149.hg19.cnt.gz
+2	H3K9me3	Healthy	hg19/counts/BI.Brain_Hippocampus_Middle.H3K9me3.150.hg19.cnt.gz
+2	H3K27ac	Healthy	hg19/counts/BI.Brain_Inferior_Temporal_Lobe.H3K27ac.112.hg19.cnt.gz
+2	H3K27ac	Healthy	hg19/counts/BI.Brain_Inferior_Temporal_Lobe.H3K27ac.149.hg19.cnt.gz
+2	H3K27me3	Healthy	hg19/counts/BI.Brain_Inferior_Temporal_Lobe.H3K27me3.112.hg19.cnt.gz
+2	H3K27me3	Healthy	hg19/counts/BI.Brain_Inferior_Temporal_Lobe.H3K27me3.149.hg19.cnt.gz
+2	H3K36me3	Healthy	hg19/counts/BI.Brain_Inferior_Temporal_Lobe.H3K36me3.112.hg19.cnt.gz
+2	H3K36me3	Healthy	hg19/counts/BI.Brain_Inferior_Temporal_Lobe.H3K36me3.149.hg19.cnt.gz
+2	H3K4me1	Healthy	hg19/counts/BI.Brain_Inferior_Temporal_Lobe.H3K4me1.112.hg19.cnt.gz
+2	H3K4me1	Healthy	hg19/counts/BI.Brain_Inferior_Temporal_Lobe.H3K4me1.149.hg19.cnt.gz
+2	H3K4me3	Healthy	hg19/counts/BI.Brain_Inferior_Temporal_Lobe.H3K4me3.112.hg19.cnt.gz
+2	H3K4me3	Healthy	hg19/counts/BI.Brain_Inferior_Temporal_Lobe.H3K4me3.149.hg19.cnt.gz
+2	H3K9me3	Healthy	hg19/counts/BI.Brain_Inferior_Temporal_Lobe.H3K9me3.112.hg19.cnt.gz
+2	H3K9me3	Healthy	hg19/counts/BI.Brain_Inferior_Temporal_Lobe.H3K9me3.149.hg19.cnt.gz
+2	H3K27ac	Healthy	hg19/counts/BI.Brain_Mid_Frontal_Lobe.H3K27ac.112.hg19.cnt.gz
+2	H3K27ac	Healthy	hg19/counts/BI.Brain_Mid_Frontal_Lobe.H3K27ac.149.hg19.cnt.gz
+2	H3K27me3	Healthy	hg19/counts/BI.Brain_Mid_Frontal_Lobe.H3K27me3.149.hg19.cnt.gz
+2	H3K36me3	Healthy	hg19/counts/BI.Brain_Mid_Frontal_Lobe.H3K36me3.112.hg19.cnt.gz
+2	H3K36me3	Healthy	hg19/counts/BI.Brain_Mid_Frontal_Lobe.H3K36me3.149.hg19.cnt.gz
+2	H3K4me1	Healthy	hg19/counts/BI.Brain_Mid_Frontal_Lobe.H3K4me1.112.hg19.cnt.gz
+2	H3K4me1	Healthy	hg19/counts/BI.Brain_Mid_Frontal_Lobe.H3K4me1.149.hg19.cnt.gz
+2	H3K4me3	Healthy	hg19/counts/BI.Brain_Mid_Frontal_Lobe.H3K4me3.112.hg19.cnt.gz
+2	H3K4me3	Healthy	hg19/counts/BI.Brain_Mid_Frontal_Lobe.H3K4me3.149.hg19.cnt.gz
+2	H3K9me3	Healthy	hg19/counts/BI.Brain_Mid_Frontal_Lobe.H3K9me3.112.hg19.cnt.gz
+2	H3K9me3	Healthy	hg19/counts/BI.Brain_Mid_Frontal_Lobe.H3K9me3.149.hg19.cnt.gz
+2	H3K27ac	Healthy	hg19/counts/BI.Brain_Substantia_Nigra.H3K27ac.149.hg19.cnt.gz
+2	H3K27me3	Healthy	hg19/counts/BI.Brain_Substantia_Nigra.H3K27me3.112.hg19.cnt.gz
+2	H3K27me3	Healthy	hg19/counts/BI.Brain_Substantia_Nigra.H3K27me3.149.hg19.cnt.gz
+2	H3K36me3	Healthy	hg19/counts/BI.Brain_Substantia_Nigra.H3K36me3.112.hg19.cnt.gz
+2	H3K36me3	Healthy	hg19/counts/BI.Brain_Substantia_Nigra.H3K36me3.149.hg19.cnt.gz
+2	H3K4me1	Healthy	hg19/counts/BI.Brain_Substantia_Nigra.H3K4me1.112.hg19.cnt.gz
+2	H3K4me1	Healthy	hg19/counts/BI.Brain_Substantia_Nigra.H3K4me1.149.hg19.cnt.gz
+2	H3K4me3	Healthy	hg19/counts/BI.Brain_Substantia_Nigra.H3K4me3.112.hg19.cnt.gz
+2	H3K4me3	Healthy	hg19/counts/BI.Brain_Substantia_Nigra.H3K4me3.149.hg19.cnt.gz
+2	H3K9me3	Healthy	hg19/counts/BI.Brain_Substantia_Nigra.H3K9me3.112.hg19.cnt.gz
+2	H3K9me3	Healthy	hg19/counts/BI.Brain_Substantia_Nigra.H3K9me3.149.hg19.cnt.gz
+2	H3K4me1	Glioma	hg19/counts/A33073.H3K4me1.merge_bwa.hg19a.A33073_2_lanes_dupsFlagged.q5.F1028.PET.ucsc.cnt.gz
+2	H3K4me1	Glioma	hg19/counts/A37106.CEMT_47.C62D9ANXX_5_ATAATT.q5.F1028.PET.wig.cnt.gz
+2	H3K4me3	Glioma	hg19/counts/A37107.CEMT_47.C62D9ANXX_4_CACCGG.q5.F1028.PET.wig.cnt.gz
+2	H3K4me3	Glioma	hg19/counts/A33074.H3K4me3.merge_bwa.hg19a.A33074_2_lanes_dupsFlagged.q5.F1028.PET.ucsc.cnt.gz
+2	H3K9me3	Glioma	hg19/counts/A33075.H3K9me3.IX2651.140815.75nt.hg19a.bwa-0.5.7.C3TC1ACXX_1_AACCCC.q5.F1028.PET.ucsc.cnt.gz
+2	H3K27ac	Glioma	hg19/counts/A33078.H3K27ac.merge_bwa.hg19a.A33078_2_lanes_dupsFlagged.q5.F1028.PET.ucsc.cnt.gz
+2	H3K27ac	Glioma	hg19/counts/A72067.CEMT_81.H3K27ac.hg19a.IX5321.CB4EDANXX_3_ATCTAT.q5.F1028.PET.wig.cnt.gz
+2	H3K27me3	Glioma	hg19/counts/A71320.CEMT_76.H3K27me3.hg19a.IX5273.CB4DUANXX_6_ATACGG.q5.F1028.PET.wig.cnt.gz
+2	H3K4me1	Glioma	hg19/counts/A33467.H3K4me1.merge_bwa.hg19a.A33467_2_lanes_dupsFlagged.q5.F1028.PET.ucsc.cnt.gz
+2	H3K4me3	Glioma	hg19/counts/A72063.CEMT_81.H3K4me3.hg19a.IX5321.CB4EDANXX_3_AGGCCG.q5.F1028.PET.wig.cnt.gz
+2	H3K36me3	Glioma	hg19/counts/A70983.CEMT_74.H3K36me3.hg19a.IX5271.CB4DUANXX_4_AAACAT.q5.F1028.PET.wig.cnt.gz
+2	H3K27me3	Glioma	hg19/counts/A70982.CEMT_74.H3K27me3.hg19a.IX5270.CB4DUANXX_3_CTTGTA.q5.F1028.PET.wig.cnt.gz
+2	H3K9me3	Glioma	hg19/counts/A70981.CEMT_74.H3K9me3.hg19a.IX5270.CB4DUANXX_3_GGCTAC.q5.F1028.PET.wig.cnt.gz
+2	H3K4me3	Glioma	hg19/counts/A70980.CEMT_74.H3K4me3.hg19a.IX5269.CB4DUANXX_2_TAGCTT.q5.F1028.PET.wig.cnt.gz
+2	H3K9me3	Glioma	hg19/counts/A33469.H3K9me3.IX2651.140815.75nt.hg19a.bwa-0.5.7.C3TC1ACXX_1_TAATCG.q5.F1028.PET.ucsc.cnt.gz
+2	H3K4me3	Glioma	hg19/counts/A33468.H3K4me3.merge_bwa.hg19a.A33468_2_lanes_dupsFlagged.q5.F1028.PET.ucsc.cnt.gz
+2	H3K27ac	Glioma	hg19/counts/A70984.CEMT_74.H3K27ac.hg19a.IX5269.CB4DUANXX_2_AAAGCA.q5.F1028.PET.wig.cnt.gz
+2	H3K36me3	Glioma	hg19/counts/A70976.CEMT_73.H3K36me3.hg19a.A70976_2_lanes_dupsFlagged.q5.F1028.PET.wig.cnt.gz
+2	H3K27ac	Glioma	hg19/counts/A72053.CEMT_79.H3K27ac.hg19a.IX5321.CB4EDANXX_3_AAAGCA.q5.F1028.PET.wig.cnt.gz
+2	H3K36me3	Glioma	hg19/counts/A72052.CEMT_79.H3K36me3.hg19a.IX5324.CB4EDANXX_6_AAACAT.q5.F1028.PET.wig.cnt.gz
+2	H3K27me3	Glioma	hg19/counts/A72051.CEMT_79.H3K27me3.hg19a.IX5324.CB4EDANXX_6_CTTGTA.q5.F1028.PET.wig.cnt.gz
+2	H3K9me3	Glioma	hg19/counts/A72050.CEMT_79.H3K9me3.hg19a.IX5324.CB4EDANXX_6_GGCTAC.q5.F1028.PET.wig.cnt.gz
+2	H3K27ac	Glioma	hg19/counts/A70977.CEMT_73.H3K27ac.hg19a.IX5269.CB4DUANXX_2_GCCAAT.q5.F1028.PET.wig.cnt.gz
+2	H3K4me1	Glioma	hg19/counts/A72062.CEMT_81.H3K4me1.hg19a.IX5325.CB4EDANXX_7_AGCGCT.q5.F1028.PET.wig.cnt.gz
+2	H3K27me3	Glioma	hg19/counts/A37109.CEMT_47.C62D9ANXX_7_CTCAGA.q5.F1028.PET.wig.cnt.gz
+2	H3K9me3	Glioma	hg19/counts/A72064.CEMT_81.H3K9me3.hg19a.IX5325.CB4EDANXX_7_ATAATT.q5.F1028.PET.wig.cnt.gz
+2	H3K36me3	Glioma	hg19/counts/A71321.CEMT_76.H3K36me3.hg19a.IX5273.CB4DUANXX_6_ATCCTA.q5.F1028.PET.wig.cnt.gz
+2	H3K4me3	Glioma	hg19/counts/A71311.CEMT_75.H3K4me3.hg19a.A71311_2_lanes_dupsFlagged.q5.F1028.PET.wig.cnt.gz
+2	H3K4me1	Glioma	hg19/counts/A71310.CEMT_75.H3K4me1.hg19a.IX5271.CB4DUANXX_4_ACCCAG.q5.F1028.PET.wig.cnt.gz
+2	H3K27me3	Glioma	hg19/counts/A71313.CEMT_75.H3K27me3.hg19a.IX5272.CB4DUANXX_5_ACTCTC.q5.F1028.PET.wig.cnt.gz
+2	H3K9me3	Glioma	hg19/counts/A71312.CEMT_75.H3K9me3.hg19a.A71312_2_lanes_dupsFlagged.q5.F1028.PET.wig.cnt.gz
+2	H3K27ac	Glioma	hg19/counts/A71315.CEMT_75.H3K27ac.hg19a.IX5269.CB4DUANXX_2_AGAAGA.q5.F1028.PET.wig.cnt.gz
+2	H3K36me3	Glioma	hg19/counts/A71314.CEMT_75.H3K36me3.hg19a.IX5272.CB4DUANXX_5_ACTGAT.q5.F1028.PET.wig.cnt.gz
+2	H3K4me1	Glioma	hg19/counts/A71317.CEMT_76.H3K4me1.hg19a.IX5272.CB4DUANXX_5_AGCGCT.q5.F1028.PET.wig.cnt.gz
+2	H3K9me3	Glioma	hg19/counts/A71319.CEMT_76.H3K9me3.hg19a.IX5273.CB4DUANXX_6_ATAATT.q5.F1028.PET.wig.cnt.gz
+2	H3K4me3	Glioma	hg19/counts/A71318.CEMT_76.H3K4me3.hg19a.A71318_2_lanes_dupsFlagged.q5.F1028.PET.wig.cnt.gz
+2	H3K9me3	Glioma	hg19/counts/A37108.CEMT_47.C62D9ANXX_6_CCCATG.q5.F1028.PET.wig.cnt.gz
+2	H3K4me3	Glioma	hg19/counts/A70973.CEMT_73.H3K4me3.hg19a.A70973_2_lanes_dupsFlagged.q5.F1028.PET.wig.cnt.gz
+2	H3K36me3	Glioma	hg19/counts/A37111.CEMT_47.C62D9ANXX_4_TATAAT.q5.F1028.PET.wig.cnt.gz
+2	H3K27ac	Glioma	hg19/counts/A37110.CEMT_47.C62EAANXX_6_GCACTT.q5.F1028.PET.wig.cnt.gz
+2	H3K36me3	Glioma	hg19/counts/A72066.CEMT_81.H3K36me3.hg19a.IX5325.CB4EDANXX_7_ATCCTA.q5.F1028.PET.wig.cnt.gz
+2	H3K27me3	Glioma	hg19/counts/A33076.H3K27me3.IX2650.140810.75nt.hg19a.bwa-0.5.7.C3THCACXX_4_ACCCAG.q5.F1028.PET.ucsc.cnt.gz
+2	H3K4me1	Glioma	hg19/counts/A70979.CEMT_74.H3K4me1.hg19a.IX5270.CB4DUANXX_3_GATCAG.q5.F1028.PET.wig.cnt.gz
+2	H3K27me3	Glioma	hg19/counts/A72065.CEMT_81.H3K27me3.hg19a.IX5325.CB4EDANXX_7_ATACGG.q5.F1028.PET.wig.cnt.gz
+2	H3K27ac	Glioma	hg19/counts/A33486.H3K27ac.merge_bwa.hg19a.A33486_2_lanes_dupsFlagged.q5.F1028.PET.ucsc.cnt.gz
+2	H3K9me3	Glioma	hg19/counts/A33476.H3K9me3.IX2651.140815.75nt.hg19a.bwa-0.5.7.C3TC1ACXX_1_AGGCCG.q5.F1028.PET.ucsc.cnt.gz
+2	H3K27me3	Glioma	hg19/counts/A33477.H3K27me3.IX2650.140810.75nt.hg19a.bwa-0.5.7.C3THCACXX_4_CAACTA.q5.F1028.PET.ucsc.cnt.gz
+2	H3K4me1	Glioma	hg19/counts/A33474.H3K4me1.merge_bwa.hg19a.A33474_2_lanes_dupsFlagged.q5.F1028.PET.ucsc.cnt.gz
+2	H3K4me3	Glioma	hg19/counts/A33475.H3K4me3.merge_bwa.hg19a.A33475_2_lanes_dupsFlagged.q5.F1028.PET.ucsc.cnt.gz
+2	H3K27ac	Glioma	hg19/counts/A33472.H3K27ac.merge_bwa.hg19a.A33472_2_lanes_dupsFlagged.q5.F1028.PET.ucsc.cnt.gz
+2	H3K27me3	Glioma	hg19/counts/A33470.H3K27me3.IX2650.140810.75nt.hg19a.bwa-0.5.7.C3THCACXX_4_TGAATG.q5.F1028.PET.ucsc.cnt.gz
+2	H3K36me3	Glioma	hg19/counts/A33471.H3K36me3.IX2652.140816.75nt.hg19a.bwa-0.5.7.C3TC1ACXX_2_AGTTCC.q5.F1028.PET.ucsc.cnt.gz
+2	H3K4me1	Glioma	hg19/counts/A33481.H3K4me1.merge_bwa.hg19a.A33481_2_lanes_dupsFlagged.q5.F1028.PET.ucsc.cnt.gz
+2	H3K36me3	Glioma	hg19/counts/A33478.H3K36me3.IX2652.140816.75nt.hg19a.bwa-0.5.7.C3TC1ACXX_2_CCACGC.q5.F1028.PET.ucsc.cnt.gz
+2	H3K27ac	Glioma	hg19/counts/A33479.H3K27ac.merge_bwa.hg19a.A33479_2_lanes_dupsFlagged.q5.F1028.PET.ucsc.cnt.gz
+2	H3K36me3	Glioma	hg19/counts/A33485.H3K36me3.IX2652.140816.75nt.hg19a.bwa-0.5.7.C3TC1ACXX_2_GGCTAC.q5.F1028.PET.ucsc.cnt.gz
+2	H3K36me3	Glioma	hg19/counts/A33077.H3K36me3.IX2652.140816.75nt.hg19a.bwa-0.5.7.C3TC1ACXX_2_AGCGCT.q5.F1028.PET.ucsc.cnt.gz
+2	H3K4me3	Glioma	hg19/counts/A33482.H3K4me3.merge_bwa.hg19a.A33482_2_lanes_dupsFlagged.q5.F1028.PET.ucsc.cnt.gz
+2	H3K9me3	Glioma	hg19/counts/A72043.CEMT_78.H3K9me3.hg19a.IX5322.CB4EDANXX_4_TTAGGC.q5.F1028.PET.wig.cnt.gz
+2	H3K4me1	Glioma	hg19/counts/A72048.CEMT_79.H3K4me1.hg19a.IX5323.CB4EDANXX_5_GATCAG.q5.F1028.PET.wig.cnt.gz
+2	H3K4me3	Glioma	hg19/counts/A72049.CEMT_79.H3K4me3.hg19a.IX5321.CB4EDANXX_3_TAGCTT.q5.F1028.PET.wig.cnt.gz
+2	H3K9me3	Glioma	hg19/counts/A70974.CEMT_73.H3K9me3.hg19a.IX5268.CB4DUANXX_1_TTAGGC.q5.F1028.PET.wig.cnt.gz
+2	H3K27me3	Glioma	hg19/counts/A70975.CEMT_73.H3K27me3.hg19a.IX5268.CB4DUANXX_1_TGACCA.q5.F1028.PET.wig.cnt.gz
+2	H3K4me1	Glioma	hg19/counts/A70972.CEMT_73.H3K4me1.hg19a.IX5268.CB4DUANXX_1_ATCACG.q5.F1028.PET.wig.cnt.gz
+2	H3K27ac	Glioma	hg19/counts/A71322.CEMT_76.H3K27ac.hg19a.IX5269.CB4DUANXX_2_ATCTAT.q5.F1028.PET.wig.cnt.gz
+2	H3K9me3	Glioma	hg19/counts/A33483.H3K9me3.IX2651.140815.75nt.hg19a.bwa-0.5.7.C3TC1ACXX_1_ATGTCA.q5.F1028.PET.ucsc.cnt.gz
+2	H3K4me1	Glioma	hg19/counts/A72041.CEMT_78.H3K4me1.hg19a.IX5322.CB4EDANXX_4_ATCACG.q5.F1028.PET.wig.cnt.gz
+2	H3K4me3	Glioma	hg19/counts/A72042.CEMT_78.H3K4me3.hg19a.IX5321.CB4EDANXX_3_CGATGT.q5.F1028.PET.wig.cnt.gz
+2	H3K27me3	Glioma	hg19/counts/A72044.CEMT_78.H3K27me3.hg19a.IX5323.CB4EDANXX_5_TGACCA.q5.F1028.PET.wig.cnt.gz
+2	H3K36me3	Glioma	hg19/counts/A72045.CEMT_78.H3K36me3.hg19a.IX5323.CB4EDANXX_5_ACAGTG.q5.F1028.PET.wig.cnt.gz
+2	H3K27ac	Glioma	hg19/counts/A72046.CEMT_78.H3K27ac.hg19a.IX5321.CB4EDANXX_3_GCCAAT.q5.F1028.PET.wig.cnt.gz
+2	H3K27me3	Glioma	hg19/counts/A33484.H3K27me3.IX2650.140810.75nt.hg19a.bwa-0.5.7.C3THCACXX_4_TTAGGC.q5.F1028.PET.ucsc.cnt.gz
+3	H3K27ac	Healthy	hg38/counts/A47310.CEMT_33.H3K27ac.hg38.bwa-sb.IX3392.C62D9ANXX_4_CGATGT.q5.F3332.PET.wig.cnt.gz
+3	H3K27ac	Healthy	hg38/counts/A47317.CEMT_34.H3K27ac.hg38.bwa-sb.IX3392.C62D9ANXX_4_CTATAC.q5.F3332.PET.wig.cnt.gz
+3	H3K27ac	Healthy	hg38/counts/A50439.CEMT_50.H3K27ac.hg38.bwa-sb.IX3759.C6J9VANXX_5_CAAAAG.q5.F3332.PET.wig.cnt.gz
+3	H3K27ac	Healthy	hg38/counts/A50446.CEMT_51.H3K27ac.hg38.bwa-sb.IX3759.C6J9VANXX_5_CGATGT.q5.F3332.PET.wig.cnt.gz
+3	H3K27ac	Healthy	hg38/counts/A50453.CEMT_52.H3K27ac.hg38.bwa-sb.IX3759.C6J9VANXX_5_CTATAC.q5.F3332.PET.wig.cnt.gz
+3	H3K27ac	Healthy	hg38/counts/A50460.CEMT_53.H3K27ac.hg38.bwa-sb.IX3759.C6J9VANXX_5_AAGACT.q5.F3332.PET.wig.cnt.gz
+3	H3K27ac	Healthy	hg38/counts/A50467.CEMT_54.H3K27ac.hg38.bwa-sb.IX3759.C6J9VANXX_5_TATAAT.q5.F3332.PET.wig.cnt.gz
+3	H3K27ac	Healthy	hg38/counts/A50474.CEMT_55.H3K27ac.hg38.bwa-sb.IX3759.C6J9VANXX_5_ATACGG.q5.F3332.PET.wig.cnt.gz
+3	H3K27ac	Healthy	hg38/counts/A50481.CEMT_56.H3K27ac.hg38.bwa-sb.IX3759.C6J9VANXX_5_GTAGAG.q5.F3332.PET.wig.cnt.gz
+3	H3K27ac	Healthy	hg38/counts/A50488.CEMT_57.H3K27ac.hg38.bwa-sb.IX3759.C6J9VANXX_5_CCGCAA.q5.F3332.PET.wig.cnt.gz
+3	H3K27ac	Healthy	hg38/counts/A50617.CEMT_58.H3K27ac.hg38.bwa-sb.IX3759.C6J9VANXX_5_AAAGCA.q5.F3332.PET.wig.cnt.gz
+3	H3K27ac	Healthy	hg38/counts/A50624.CEMT_59.H3K27ac.hg38.bwa-sb.IX3819.C6PRKANXX_8_CAAAAG.q5.F3332.PET.wig.cnt.gz
+3	H3K27ac	Healthy	hg38/counts/A50876.CEMT_60.H3K27ac.hg38.bwa-sb.IX3819.C6PRKANXX_8_CGATGT.q5.F3332.PET.wig.cnt.gz
+3	H3K27ac	Healthy	hg38/counts/A50883.CEMT_61.H3K27ac.hg38.bwa-sb.IX3819.C6PRKANXX_8_CTATAC.q5.F3332.PET.wig.cnt.gz
+3	H3K27ac	Healthy	hg38/counts/A55602.CEMT_72.H3K27ac.hg38.bwa-sb.IX4136.C8ATRANXX_6_CTATAC.q5.F3332.PET.wig.cnt.gz
+3	H3K27me3	Healthy	hg38/counts/A47308.CEMT_33.H3K27me3.hg38.bwa-sb.IX3395.C62D9ANXX_7_TGAATG.q5.F3332.PET.wig.cnt.gz
+3	H3K27me3	Healthy	hg38/counts/A47315.CEMT_34.H3K27me3.hg38.bwa-sb.IX3395.C62D9ANXX_7_CAACTA.q5.F3332.PET.wig.cnt.gz
+3	H3K27me3	Healthy	hg38/counts/A50437.CEMT_50.H3K27me3.hg38.bwa-sb.IX3752.C6J84ANXX_1_ACCCAG.q5.F3332.PET.wig.cnt.gz
+3	H3K27me3	Healthy	hg38/counts/A50444.CEMT_51.H3K27me3.hg38.bwa-sb.IX3752.C6J84ANXX_1_TGAATG.q5.F3332.PET.wig.cnt.gz
+3	H3K27me3	Healthy	hg38/counts/A50451.CEMT_52.H3K27me3.hg38.bwa-sb.IX3752.C6J84ANXX_1_CAACTA.q5.F3332.PET.wig.cnt.gz
+3	H3K27me3	Healthy	hg38/counts/A50458.CEMT_53.H3K27me3.hg38.bwa-sb.IX3752.C6J84ANXX_1_TTAGGC.q5.F3332.PET.wig.cnt.gz
+3	H3K27me3	Healthy	hg38/counts/A50465.CEMT_54.H3K27me3.hg38.bwa-sb.IX3752.C6J84ANXX_1_CTCAGA.q5.F3332.PET.wig.cnt.gz
+3	H3K27me3	Healthy	hg38/counts/A50472.CEMT_55.H3K27me3.hg38.bwa-sb.IX3753.C6J84ANXX_2_AAGCGA.q5.F3332.PET.wig.cnt.gz
+3	H3K27me3	Healthy	hg38/counts/A50479.CEMT_56.H3K27me3.hg38.bwa-sb.IX3753.C6J84ANXX_2_TCATTC.q5.F3332.PET.wig.cnt.gz
+3	H3K27me3	Healthy	hg38/counts/A50486.CEMT_57.H3K27me3.hg38.bwa-sb.IX3753.C6J84ANXX_2_ATCCTA.q5.F3332.PET.wig.cnt.gz
+3	H3K27me3	Healthy	hg38/counts/A50615.CEMT_58.H3K27me3.hg38.bwa-sb.IX3753.C6J84ANXX_2_GTCCGC.q5.F3332.PET.wig.cnt.gz
+3	H3K27me3	Healthy	hg38/counts/A50622.CEMT_59.H3K27me3.hg38.bwa-sb.IX3812.C6PRKANXX_1_ACCCAG.q5.F3332.PET.wig.cnt.gz
+3	H3K27me3	Healthy	hg38/counts/A50874.CEMT_60.H3K27me3.hg38.bwa-sb.IX3812.C6PRKANXX_1_TGAATG.q5.F3332.PET.wig.cnt.gz
+3	H3K27me3	Healthy	hg38/counts/A50881.CEMT_61.H3K27me3.hg38.bwa-sb.IX3812.C6PRKANXX_1_CAACTA.q5.F3332.PET.wig.cnt.gz
+3	H3K27me3	Healthy	hg38/counts/A55600.CEMT_72.H3K27me3.hg38.A55600_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+3	H3K36me3	Healthy	hg38/counts/A47309.CEMT_33.H3K36me3.hg38.bwa-sb.IX3396.C62EAANXX_6_AGTTCC.q5.F3332.PET.wig.cnt.gz
+3	H3K36me3	Healthy	hg38/counts/A47316.CEMT_34.H3K36me3.hg38.bwa-sb.IX3396.C62EAANXX_6_CCACGC.q5.F3332.PET.wig.cnt.gz
+3	H3K36me3	Healthy	hg38/counts/A50438.CEMT_50.H3K36me3.hg38.bwa-sb.IX3754.C6J84ANXX_3_AGCGCT.q5.F3332.PET.wig.cnt.gz
+3	H3K36me3	Healthy	hg38/counts/A50445.CEMT_51.H3K36me3.hg38.bwa-sb.IX3754.C6J84ANXX_3_AGTTCC.q5.F3332.PET.wig.cnt.gz
+3	H3K36me3	Healthy	hg38/counts/A50452.CEMT_52.H3K36me3.hg38.bwa-sb.IX3754.C6J84ANXX_3_CCACGC.q5.F3332.PET.wig.cnt.gz
+3	H3K36me3	Healthy	hg38/counts/A50459.CEMT_53.H3K36me3.hg38.bwa-sb.IX3754.C6J84ANXX_3_GGCTAC.q5.F3332.PET.wig.cnt.gz
+3	H3K36me3	Healthy	hg38/counts/A50466.CEMT_54.H3K36me3.hg38.bwa-sb.IX3754.C6J84ANXX_3_GCACTT.q5.F3332.PET.wig.cnt.gz
+3	H3K36me3	Healthy	hg38/counts/A50473.CEMT_55.H3K36me3.hg38.bwa-sb.IX3755.C6J9VANXX_1_ACTCTC.q5.F3332.PET.wig.cnt.gz
+3	H3K36me3	Healthy	hg38/counts/A50480.CEMT_56.H3K36me3.hg38.bwa-sb.IX3755.C6J9VANXX_1_TGGCGC.q5.F3332.PET.wig.cnt.gz
+3	H3K36me3	Healthy	hg38/counts/A50487.CEMT_57.H3K36me3.hg38.bwa-sb.IX3755.C6J9VANXX_1_CACTCA.q5.F3332.PET.wig.cnt.gz
+3	H3K36me3	Healthy	hg38/counts/A50616.CEMT_58.H3K36me3.hg38.bwa-sb.IX3755.C6J9VANXX_1_GCCAAT.q5.F3332.PET.wig.cnt.gz
+3	H3K36me3	Healthy	hg38/counts/A50623.CEMT_59.H3K36me3.hg38.IX3814.C6PRKANXX_3_AGCGCT.q5.F3332.PET.wig.cnt.gz
+3	H3K36me3	Healthy	hg38/counts/A50875.CEMT_60.H3K36me3.hg38.bwa-sb.IX3814.C6PRKANXX_3_AGTTCC.q5.F3332.PET.wig.cnt.gz
+3	H3K36me3	Healthy	hg38/counts/A50882.CEMT_61.H3K36me3.hg38.bwa-sb.IX3814.C6PRKANXX_3_CCACGC.q5.F3332.PET.wig.cnt.gz
+3	H3K36me3	Healthy	hg38/counts/A55601.CEMT_72.H3K36me3.hg38.A55601_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+3	H3K4me1	Healthy	hg38/counts/A47305.CEMT_33.H3K4me1.hg38.bwa-sb.IX3393.C62D9ANXX_5_CTAGCT.q5.F3332.PET.wig.cnt.gz
+3	H3K4me1	Healthy	hg38/counts/A47312.CEMT_34.H3K4me1.hg38.bwa-sb.IX3393.C62D9ANXX_5_AACTTG.q5.F3332.PET.wig.cnt.gz
+3	H3K4me1	Healthy	hg38/counts/A50434.CEMT_50.H3K4me1.hg38.bwa-sb.IX3748.C75F7ANXX_1_ATCACG.q5.F3332.PET.wig.cnt.gz
+3	H3K4me1	Healthy	hg38/counts/A50441.CEMT_51.H3K4me1.hg38.bwa-sb.IX3748.C75F7ANXX_1_CTAGCT.q5.F3332.PET.wig.cnt.gz
+3	H3K4me1	Healthy	hg38/counts/A50448.CEMT_52.H3K4me1.hg38.bwa-sb.IX3748.C75F7ANXX_1_AACTTG.q5.F3332.PET.wig.cnt.gz
+3	H3K4me1	Healthy	hg38/counts/A50455.CEMT_53.H3K4me1.hg38.bwa-sb.IX3748.C75F7ANXX_1_TACAGC.q5.F3332.PET.wig.cnt.gz
+3	H3K4me1	Healthy	hg38/counts/A50462.CEMT_54.H3K4me1.hg38.bwa-sb.IX3748.C75F7ANXX_1_ATAATT.q5.F3332.PET.wig.cnt.gz
+3	H3K4me1	Healthy	hg38/counts/A50469.CEMT_55.H3K4me1.hg38.bwa-sb.IX3749.C75F7ANXX_2_CCGTCC.q5.F3332.PET.wig.cnt.gz
+3	H3K4me1	Healthy	hg38/counts/A50476.CEMT_56.H3K4me1.hg38.bwa-sb.IX3749.C75F7ANXX_2_GAGTGG.q5.F3332.PET.wig.cnt.gz
+3	H3K4me1	Healthy	hg38/counts/A50483.CEMT_57.H3K4me1.hg38.bwa-sb.IX3749.C75F7ANXX_2_AAACAT.q5.F3332.PET.wig.cnt.gz
+3	H3K4me1	Healthy	hg38/counts/A50612.CEMT_58.H3K4me1.hg38.bwa-sb.IX3749.C75F7ANXX_2_GCCTTA.q5.F3332.PET.wig.cnt.gz
+3	H3K4me1	Healthy	hg38/counts/A50619.CEMT_59.H3K4me1.hg38.bwa-sb.IX3808.C6PDTANXX_4_ATCACG.q5.F3332.PET.wig.cnt.gz
+3	H3K4me1	Healthy	hg38/counts/A50871.CEMT_60.H3K4me1.hg38.bwa-sb.IX3808.C6PDTANXX_4_CTAGCT.q5.F3332.PET.wig.cnt.gz
+3	H3K4me1	Healthy	hg38/counts/A50878.CEMT_61.H3K4me1.hg38.bwa-sb.IX3808.C6PDTANXX_4_AACTTG.q5.F3332.PET.wig.cnt.gz
+3	H3K4me1	Healthy	hg38/counts/A55597.CEMT_72.H3K4me1.hg38.A55597_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+3	H3K4me3	Healthy	hg38/counts/A47306.CEMT_33.H3K4me3.hg38.bwa-sb.IX3392.C62D9ANXX_4_GATGCT.q5.F3332.PET.wig.cnt.gz
+3	H3K4me3	Healthy	hg38/counts/A47313.CEMT_34.H3K4me3.hg38.bwa-sb.IX3392.C62D9ANXX_4_ACCGGC.q5.F3332.PET.wig.cnt.gz
+3	H3K4me3	Healthy	hg38/counts/A50435.CEMT_50.H3K4me3.hg38.bwa-sb.IX3758.C6J9VANXX_4_GATCAG.q5.F3332.PET.wig.cnt.gz
+3	H3K4me3	Healthy	hg38/counts/A50442.CEMT_51.H3K4me3.hg38.bwa-sb.IX3758.C6J9VANXX_4_GATGCT.q5.F3332.PET.wig.cnt.gz
+3	H3K4me3	Healthy	hg38/counts/A50449.CEMT_52.H3K4me3.hg38.bwa-sb.IX3758.C6J9VANXX_4_ACCGGC.q5.F3332.PET.wig.cnt.gz
+3	H3K4me3	Healthy	hg38/counts/A50456.CEMT_53.H3K4me3.hg38.bwa-sb.IX3758.C6J9VANXX_4_TGCCAT.q5.F3332.PET.wig.cnt.gz
+3	H3K4me3	Healthy	hg38/counts/A50463.CEMT_54.H3K4me3.hg38.bwa-sb.IX3758.C6J9VANXX_4_CACCGG.q5.F3332.PET.wig.cnt.gz
+3	H3K4me3	Healthy	hg38/counts/A50470.CEMT_55.H3K4me3.hg38.bwa-sb.IX3758.C6J9VANXX_4_TGACCA.q5.F3332.PET.wig.cnt.gz
+3	H3K4me3	Healthy	hg38/counts/A50477.CEMT_56.H3K4me3.hg38.bwa-sb.IX3758.C6J9VANXX_4_CTGCTG.q5.F3332.PET.wig.cnt.gz
+3	H3K4me3	Healthy	hg38/counts/A50484.CEMT_57.H3K4me3.hg38.bwa-sb.IX3758.C6J9VANXX_4_AAGGAC.q5.F3332.PET.wig.cnt.gz
+3	H3K4me3	Healthy	hg38/counts/A50613.CEMT_58.H3K4me3.hg38.bwa-sb.IX3758.C6J9VANXX_4_TCCCGA.q5.F3332.PET.wig.cnt.gz
+3	H3K4me3	Healthy	hg38/counts/A50620.CEMT_59.H3K4me3.hg38.bwa-sb.IX3818.C6PRKANXX_7_GATCAG.q5.F3332.PET.wig.cnt.gz
+3	H3K4me3	Healthy	hg38/counts/A50872.CEMT_60.H3K4me3.hg38.bwa-sb.IX3818.C6PRKANXX_7_GATGCT.q5.F3332.PET.wig.cnt.gz
+3	H3K4me3	Healthy	hg38/counts/A50879.CEMT_61.H3K4me3.hg38.bwa-sb.IX3818.C6PRKANXX_7_ACCGGC.q5.F3332.PET.wig.cnt.gz
+3	H3K4me3	Healthy	hg38/counts/A55598.CEMT_72.H3K4me3.hg38.A55598_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+3	H3K9me3	Healthy	hg38/counts/A47307.CEMT_33.H3K9me3.hg38.bwa-sb.IX3394.C62D9ANXX_6_TAATCG.q5.F3332.PET.wig.cnt.gz
+3	H3K9me3	Healthy	hg38/counts/A47314.CEMT_34.H3K9me3.hg38.bwa-sb.IX3394.C62D9ANXX_6_AGGCCG.q5.F3332.PET.wig.cnt.gz
+3	H3K9me3	Healthy	hg38/counts/A50436.CEMT_50.H3K9me3.hg38.bwa-sb.IX3750.C75F7ANXX_3_AACCCC.q5.F3332.PET.wig.cnt.gz
+3	H3K9me3	Healthy	hg38/counts/A50443.CEMT_51.H3K9me3.hg38.bwa-sb.IX3750.C75F7ANXX_3_TAATCG.q5.F3332.PET.wig.cnt.gz
+3	H3K9me3	Healthy	hg38/counts/A50450.CEMT_52.H3K9me3.hg38.bwa-sb.IX3750.C75F7ANXX_3_AGGCCG.q5.F3332.PET.wig.cnt.gz
+3	H3K9me3	Healthy	hg38/counts/A50457.CEMT_53.H3K9me3.hg38.bwa-sb.IX3750.C75F7ANXX_3_ATGTCA.q5.F3332.PET.wig.cnt.gz
+3	H3K9me3	Healthy	hg38/counts/A50464.CEMT_54.H3K9me3.hg38.bwa-sb.IX3750.C75F7ANXX_3_CCCATG.q5.F3332.PET.wig.cnt.gz
+3	H3K9me3	Healthy	hg38/counts/A50471.CEMT_55.H3K9me3.hg38.bwa-sb.IX3751.C75F7ANXX_4_CTTGTA.q5.F3332.PET.wig.cnt.gz
+3	H3K9me3	Healthy	hg38/counts/A50478.CEMT_56.H3K9me3.hg38.bwa-sb.IX3751.C75F7ANXX_4_GCCGCG.q5.F3332.PET.wig.cnt.gz
+3	H3K9me3	Healthy	hg38/counts/A50485.CEMT_57.H3K9me3.hg38.bwa-sb.IX3751.C75F7ANXX_4_ACTGAT.q5.F3332.PET.wig.cnt.gz
+3	H3K9me3	Healthy	hg38/counts/A50614.CEMT_58.H3K9me3.hg38.bwa-sb.IX3751.C75F7ANXX_4_TTCGAA.q5.F3332.PET.wig.cnt.gz
+3	H3K9me3	Healthy	hg38/counts/A50621.CEMT_59.H3K9me3.hg38.bwa-sb.IX3810.C6PDTANXX_6_AACCCC.q5.F3332.PET.wig.cnt.gz
+3	H3K9me3	Healthy	hg38/counts/A50873.CEMT_60.H3K9me3.hg38.bwa-sb.IX3810.C6PDTANXX_6_TAATCG.q5.F3332.PET.wig.cnt.gz
+3	H3K9me3	Healthy	hg38/counts/A50880.CEMT_61.H3K9me3.hg38.bwa-sb.IX3810.C6PDTANXX_6_AGGCCG.q5.F3332.PET.wig.cnt.gz
+3	H3K9me3	Healthy	hg38/counts/A55599.CEMT_72.H3K9me3.hg38.A55599_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+3	H3K27ac	Large Intestine-Colon Carcinoma	hg38/counts/A52090.CEMT_62.H3K27ac.hg38.bwa-sb.IX4135.C8ATRANXX_5_CAAAAG.q5.F3332.PET.wig.cnt.gz
+3	H3K27ac	Large Intestine-Colon Carcinoma	hg38/counts/A50890.CEMT_63.H3K27ac.hg38.bwa-sb.IX3819.C6PRKANXX_8_AAGACT.q5.F3332.PET.wig.cnt.gz
+3	H3K27ac	Large Intestine-Colon Carcinoma	hg38/counts/A50897.CEMT_64.H3K27ac.hg38.bwa-sb.IX3819.C6PRKANXX_8_TATAAT.q5.F3332.PET.wig.cnt.gz
+3	H3K27ac	Large Intestine-Colon Carcinoma	hg38/counts/A51319.CEMT_65.H3K27ac.hg38.bwa-sb.IX3819.C6PRKANXX_8_ATACGG.q5.F3332.PET.wig.cnt.gz
+3	H3K27ac	Large Intestine-Colon Carcinoma	hg38/counts/A51326.CEMT_66.H3K27ac.hg38.bwa-sb.IX3819.C6PRKANXX_8_GTAGAG.q5.F3332.PET.wig.cnt.gz
+3	H3K27ac	Large Intestine-Colon Carcinoma	hg38/counts/A51333.CEMT_67.H3K27ac.hg38.bwa-sb.IX3819.C6PRKANXX_8_CCGCAA.q5.F3332.PET.wig.cnt.gz
+3	H3K27me3	Large Intestine-Colon Carcinoma	hg38/counts/A52088.CEMT_62.H3K27me3.hg38.bwa-sb.IX4129.C8ATGANXX_4_ACCCAG.q5.F3332.PET.wig.cnt.gz
+3	H3K27me3	Large Intestine-Colon Carcinoma	hg38/counts/A50888.CEMT_63.H3K27me3.hg38.bwa-sb.IX3812.C6PRKANXX_1_TTAGGC.q5.F3332.PET.wig.cnt.gz
+3	H3K27me3	Large Intestine-Colon Carcinoma	hg38/counts/A50895.CEMT_64.H3K27me3.hg38.bwa-sb.IX3813.C6PRKANXX_2_CTCAGA.q5.F3332.PET.wig.cnt.gz
+3	H3K27me3	Large Intestine-Colon Carcinoma	hg38/counts/A51317.CEMT_65.H3K27me3.hg38.bwa-sb.IX3813.C6PRKANXX_2_AAGCGA.q5.F3332.PET.wig.cnt.gz
+3	H3K27me3	Large Intestine-Colon Carcinoma	hg38/counts/A51324.CEMT_66.H3K27me3.hg38.bwa-sb.IX3813.C6PRKANXX_2_TCATTC.q5.F3332.PET.wig.cnt.gz
+3	H3K27me3	Large Intestine-Colon Carcinoma	hg38/counts/A51331.CEMT_67.H3K27me3.hg38.bwa-sb.IX3813.C6PRKANXX_2_ATCCTA.q5.F3332.PET.wig.cnt.gz
+3	H3K36me3	Large Intestine-Colon Carcinoma	hg38/counts/A52089.CEMT_62.H3K36me3.hg38.bwa-sb.IX4129.C8ATGANXX_4_AGCGCT.q5.F3332.PET.wig.cnt.gz
+3	H3K36me3	Large Intestine-Colon Carcinoma	hg38/counts/A50889.CEMT_63.H3K36me3.hg38.bwa-sb.IX3814.C6PRKANXX_3_GGCTAC.q5.F3332.PET.wig.cnt.gz
+3	H3K36me3	Large Intestine-Colon Carcinoma	hg38/counts/A50896.CEMT_64.H3K36me3.hg38.bwa-sb.IX3815.C6PRKANXX_4_GCACTT.q5.F3332.PET.wig.cnt.gz
+3	H3K36me3	Large Intestine-Colon Carcinoma	hg38/counts/A51318.CEMT_65.H3K36me3.hg38.bwa-sb.IX3815.C6PRKANXX_4_ACTCTC.q5.F3332.PET.wig.cnt.gz
+3	H3K36me3	Large Intestine-Colon Carcinoma	hg38/counts/A51325.CEMT_66.H3K36me3.hg38.bwa-sb.IX3815.C6PRKANXX_4_TGGCGC.q5.F3332.PET.wig.cnt.gz
+3	H3K36me3	Large Intestine-Colon Carcinoma	hg38/counts/A51332.CEMT_67.H3K36me3.hg38.bwa-sb.IX3815.C6PRKANXX_4_CACTCA.q5.F3332.PET.wig.cnt.gz
+3	H3K4me1	Large Intestine-Colon Carcinoma	hg38/counts/A52085.CEMT_62.H3K4me1.hg38.bwa-sb.IX4129.C8ATGANXX_4_ATCACG.q5.F3332.PET.wig.cnt.gz
+3	H3K4me1	Large Intestine-Colon Carcinoma	hg38/counts/A50885.CEMT_63.H3K4me1.hg38.bwa-sb.IX3808.C6PDTANXX_4_TACAGC.q5.F3332.PET.wig.cnt.gz
+3	H3K4me1	Large Intestine-Colon Carcinoma	hg38/counts/A50892.CEMT_64.H3K4me1.hg38.bwa-sb.IX3809.C6PDTANXX_5_ATAATT.q5.F3332.PET.wig.cnt.gz
+3	H3K4me1	Large Intestine-Colon Carcinoma	hg38/counts/A51314.CEMT_65.H3K4me1.hg38.bwa-sb.IX3809.C6PDTANXX_5_CCGTCC.q5.F3332.PET.wig.cnt.gz
+3	H3K4me1	Large Intestine-Colon Carcinoma	hg38/counts/A51321.CEMT_66.H3K4me1.hg38.bwa-sb.IX3809.C6PDTANXX_5_GAGTGG.q5.F3332.PET.wig.cnt.gz
+3	H3K4me1	Large Intestine-Colon Carcinoma	hg38/counts/A51328.CEMT_67.H3K4me1.hg38.bwa-sb.IX3809.C6PDTANXX_5_AAACAT.q5.F3332.PET.wig.cnt.gz
+3	H3K4me3	Large Intestine-Colon Carcinoma	hg38/counts/A52086.CEMT_62.H3K4me3.hg38.bwa-sb.IX4135.C8ATRANXX_5_GATCAG.q5.F3332.PET.wig.cnt.gz
+3	H3K4me3	Large Intestine-Colon Carcinoma	hg38/counts/A50886.CEMT_63.H3K4me3.hg38.bwa-sb.IX3818.C6PRKANXX_7_TGCCAT.q5.F3332.PET.wig.cnt.gz
+3	H3K4me3	Large Intestine-Colon Carcinoma	hg38/counts/A50893.CEMT_64.H3K4me3.hg38.bwa-sb.IX3818.C6PRKANXX_7_CACCGG.q5.F3332.PET.wig.cnt.gz
+3	H3K4me3	Large Intestine-Colon Carcinoma	hg38/counts/A51315.CEMT_65.H3K4me3.hg38.bwa-sb.IX3818.C6PRKANXX_7_TGACCA.q5.F3332.PET.wig.cnt.gz
+3	H3K4me3	Large Intestine-Colon Carcinoma	hg38/counts/A51322.CEMT_66.H3K4me3.hg38.bwa-sb.IX3818.C6PRKANXX_7_CTGCTG.q5.F3332.PET.wig.cnt.gz
+3	H3K4me3	Large Intestine-Colon Carcinoma	hg38/counts/A51329.CEMT_67.H3K4me3.hg38.bwa-sb.IX3818.C6PRKANXX_7_AAGGAC.q5.F3332.PET.wig.cnt.gz
+3	H3K9me3	Large Intestine-Colon Carcinoma	hg38/counts/A52087.CEMT_62.H3K9me3.hg38.bwa-sb.IX4129.C8ATGANXX_4_AACCCC.q5.F3332.PET.wig.cnt.gz
+3	H3K9me3	Large Intestine-Colon Carcinoma	hg38/counts/A50887.CEMT_63.H3K9me3.hg38.bwa-sb.IX3810.C6PDTANXX_6_ATGTCA.q5.F3332.PET.wig.cnt.gz
+3	H3K9me3	Large Intestine-Colon Carcinoma	hg38/counts/A50894.CEMT_64.H3K9me3.hg38.bwa-sb.IX3811.C6PDTANXX_7_CCCATG.q5.F3332.PET.wig.cnt.gz
+3	H3K9me3	Large Intestine-Colon Carcinoma	hg38/counts/A51316.CEMT_65.H3K9me3.hg38.bwa-sb.IX3811.C6PDTANXX_7_CTTGTA.q5.F3332.PET.wig.cnt.gz
+3	H3K9me3	Large Intestine-Colon Carcinoma	hg38/counts/A51323.CEMT_66.H3K9me3.hg38.bwa-sb.IX3811.C6PDTANXX_7_GCCGCG.q5.F3332.PET.wig.cnt.gz
+3	H3K9me3	Large Intestine-Colon Carcinoma	hg38/counts/A51330.CEMT_67.H3K9me3.hg38.bwa-sb.IX3811.C6PDTANXX_7_ACTGAT.q5.F3332.PET.wig.cnt.gz
+4	H3K4me1	Healthy	hg38/counts/S0159LH1.ERX1007461.H3K4me1.bwa.GRCh38.20151029.cnt.gz
+4	H3K9me3	Healthy	hg38/counts/S0159LH1.ERX1007462.H3K9me3.bwa.GRCh38.20151029.cnt.gz
+4	H3K27ac	Healthy	hg38/counts/S0159LH1.ERX1007481.H3K27ac.bwa.GRCh38.20151029.cnt.gz
+4	H3K36me3	Healthy	hg38/counts/S0159LH1.ERX1007482.H3K36me3.bwa.GRCh38.20151029.cnt.gz
+4	H3K27me3	Healthy	hg38/counts/S0159LH1.ERX1007483.H3K27me3.bwa.GRCh38.20151029.cnt.gz
+4	H3K4me3	Healthy	hg38/counts/S0159LH1.ERX1122444.H3K4me3.bwa.GRCh38.20151029.cnt.gz
+4	H3K27me3	Healthy	hg38/counts/S00X9SH1.ERX712739.H3K27me3.bwa.GRCh38.20150529.cnt.gz
+4	H3K36me3	Healthy	hg38/counts/S00X9SH1.ERX712740.H3K36me3.bwa.GRCh38.20150529.cnt.gz
+4	H3K4me1	Healthy	hg38/counts/S00X9SH1.ERX712741.H3K4me1.bwa.GRCh38.20150529.cnt.gz
+4	H3K4me3	Healthy	hg38/counts/S00X9SH1.ERX712777.H3K4me3.bwa.GRCh38.20150529.cnt.gz
+4	H3K27ac	Healthy	hg38/counts/S00X9SH1.ERX712778.H3K27ac.bwa.GRCh38.20150529.cnt.gz
+4	H3K9me3	Healthy	hg38/counts/S00X9SH1.ERX712779.H3K9me3.bwa.GRCh38.20150529.cnt.gz
+4	H3K4me1	Healthy	hg38/counts/S00XAQH1.ERX1295588.H3K4me1.bwa.GRCh38.20160126.cnt.gz
+4	H3K4me3	Healthy	hg38/counts/S00XAQH1.ERX712759.H3K4me3.bwa.GRCh38.20150528.cnt.gz
+4	H3K27ac	Healthy	hg38/counts/S00XAQH1.ERX712760.H3K27ac.bwa.GRCh38.20150529.cnt.gz
+4	H3K36me3	Healthy	hg38/counts/S00XAQH1.ERX712761.H3K36me3.bwa.GRCh38.20150529.cnt.gz
+4	H3K9me3	Healthy	hg38/counts/S00XAQH1.ERX712762.H3K9me3.bwa.GRCh38.20150529.cnt.gz
+4	H3K27me3	Healthy	hg38/counts/S00XAQH1.ERX712763.H3K27me3.bwa.GRCh38.20150529.cnt.gz
+4	H3K27ac	Healthy	hg38/counts/S00W1BH1.ERX712695.H3K27ac.bwa.GRCh38.20150528.cnt.gz
+4	H3K36me3	Healthy	hg38/counts/S00W1BH1.ERX712696.H3K36me3.bwa.GRCh38.20150529.cnt.gz
+4	H3K4me1	Healthy	hg38/counts/S00W1BH1.ERX712697.H3K4me1.bwa.GRCh38.20150528.cnt.gz
+4	H3K9me3	Healthy	hg38/counts/S00W1BH1.ERX712698.H3K9me3.bwa.GRCh38.20150529.cnt.gz
+4	H3K4me3	Healthy	hg38/counts/S00W1BH1.ERX712717.H3K4me3.bwa.GRCh38.20150529.cnt.gz
+4	H3K27me3	Healthy	hg38/counts/S00W1BH1.ERX712775.H3K27me3.bwa.GRCh38.20150529.cnt.gz
+4	H3K4me3	Acute Lymphocytic Leukemia	hg38/counts/S0173PH1.ERX1345469.H3K4me3.bwa.GRCh38.20160309.cnt.gz
+4	H3K36me3	Acute Lymphocytic Leukemia	hg38/counts/S0173PH1.ERX1345483.H3K36me3.bwa.GRCh38.20160309.cnt.gz
+4	H3K4me1	Acute Lymphocytic Leukemia	hg38/counts/S0173PH1.ERX1345484.H3K4me1.bwa.GRCh38.20160309.cnt.gz
+4	H3K4me3	Acute Lymphocytic Leukemia	hg38/counts/S0174NH1.ERX1302278.H3K4me3.bwa.GRCh38.20160226.cnt.gz
+4	H3K27ac	Acute Lymphocytic Leukemia	hg38/counts/S0174NH1.ERX1302279.H3K27ac.bwa.GRCh38.20160226.cnt.gz
+4	H3K9me3	Acute Lymphocytic Leukemia	hg38/counts/S0174NH1.ERX1304237.H3K9me3.bwa.GRCh38.20160226.cnt.gz
+4	H3K4me1	Acute Lymphocytic Leukemia	hg38/counts/S0174NH1.ERX1304248.H3K4me1.bwa.GRCh38.20160226.cnt.gz
+4	H3K36me3	Acute Lymphocytic Leukemia	hg38/counts/S0174NH1.ERX1345488.H3K36me3.bwa.GRCh38.20160309.cnt.gz
+4	H3K4me3	Acute Lymphocytic Leukemia	hg38/counts/S0175LH1.ERX1304134.H3K4me3.bwa.GRCh38.20160226.cnt.gz
+4	H3K27ac	Acute Lymphocytic Leukemia	hg38/counts/S0175LH1.ERX1304135.H3K27ac.bwa.GRCh38.20160226.cnt.gz
+4	H3K9me3	Acute Lymphocytic Leukemia	hg38/counts/S0175LH1.ERX1304221.H3K9me3.bwa.GRCh38.20160226.cnt.gz
+4	H3K36me3	Acute Lymphocytic Leukemia	hg38/counts/S0175LH1.ERX1345489.H3K36me3.bwa.GRCh38.20160309.cnt.gz
+4	H3K4me3	Acute Lymphocytic Leukemia	hg38/counts/S017B9H1.ERX1304153.H3K4me3.bwa.GRCh38.20160226.cnt.gz
+4	H3K27ac	Acute Lymphocytic Leukemia	hg38/counts/S017B9H1.ERX1304154.H3K27ac.bwa.GRCh38.20160226.cnt.gz
+4	H3K4me1	Acute Lymphocytic Leukemia	hg38/counts/S017B9H1.ERX1304238.H3K4me1.bwa.GRCh38.20160226.cnt.gz
+4	H3K9me3	Acute Lymphocytic Leukemia	hg38/counts/S017B9H1.ERX1304239.H3K9me3.bwa.GRCh38.20160226.cnt.gz
+4	H3K36me3	Acute Lymphocytic Leukemia	hg38/counts/S017B9H1.ERX1345491.H3K36me3.bwa.GRCh38.20160309.cnt.gz
+4	H3K27ac	Acute Lymphocytic Leukemia	hg38/counts/S017C7H1.ERX1302280.H3K27ac.bwa.GRCh38.20160226.cnt.gz
+4	H3K4me1	Acute Lymphocytic Leukemia	hg38/counts/S017C7H1.ERX1304240.H3K4me1.bwa.GRCh38.20160226.cnt.gz
+4	H3K4me3	Acute Lymphocytic Leukemia	hg38/counts/S017C7H1.ERX1345472.H3K4me3.bwa.GRCh38.20160309.cnt.gz
+4	H3K27ac	Acute Lymphocytic Leukemia	hg38/counts/S017D5H1.ERX1304137.H3K27ac.bwa.GRCh38.20160226.cnt.gz
+4	H3K4me3	Acute Lymphocytic Leukemia	hg38/counts/S017D5H1.ERX1304202.H3K4me3.bwa.GRCh38.20160226.cnt.gz
+4	H3K4me1	Acute Lymphocytic Leukemia	hg38/counts/S017D5H1.ERX1304241.H3K4me1.bwa.GRCh38.20160226.cnt.gz
+4	H3K9me3	Acute Lymphocytic Leukemia	hg38/counts/S017D5H1.ERX1304242.H3K9me3.bwa.GRCh38.20160226.cnt.gz
+4	H3K36me3	Acute Lymphocytic Leukemia	hg38/counts/S017D5H1.ERX1347894.H3K36me3.bwa.GRCh38.20160309.cnt.gz
+5	H3K27me3	Chronic Lymphocytic Leukemia	hg38/counts/S00AYXH1.ERX604488.H3K27me3.bwa.GRCh38.20150528.cnt.gz
+5	H3K4me1	Chronic Lymphocytic Leukemia	hg38/counts/S00AYXH1.ERX712669.H3K4me1.bwa.GRCh38.20150528.cnt.gz
+5	H3K27ac	Chronic Lymphocytic Leukemia	hg38/counts/S00AYXH1.ERX712685.H3K27ac.bwa.GRCh38.20150528.cnt.gz
+5	H3K4me3	Chronic Lymphocytic Leukemia	hg38/counts/S00AYXH1.ERX941030.H3K4me3.bwa.GRCh38.20150529.cnt.gz
+5	H3K9me3	Chronic Lymphocytic Leukemia	hg38/counts/S00AYXH1.ERX941031.H3K9me3.bwa.GRCh38.20150529.cnt.gz
+5	H3K36me3	Chronic Lymphocytic Leukemia	hg38/counts/S00AYXH1.ERX941064.H3K36me3.bwa.GRCh38.20150529.cnt.gz
+5	H3K4me1	Chronic Lymphocytic Leukemia	hg38/counts/S01FG4H1.ERX1122569.H3K4me1.bwa.GRCh38.20151029.cnt.gz
+5	H3K36me3	Chronic Lymphocytic Leukemia	hg38/counts/S01FG4H1.ERX1122570.H3K36me3.bwa.GRCh38.20151029.cnt.gz
+5	H3K4me3	Chronic Lymphocytic Leukemia	hg38/counts/S01FG4H1.ERX1122612.H3K4me3.bwa.GRCh38.20151029.cnt.gz
+5	H3K27ac	Chronic Lymphocytic Leukemia	hg38/counts/S01FG4H1.ERX1122613.H3K27ac.bwa.GRCh38.20151029.cnt.gz
+5	H3K9me3	Chronic Lymphocytic Leukemia	hg38/counts/S01FG4H1.ERX1122614.H3K9me3.bwa.GRCh38.20151029.cnt.gz
+5	H3K27me3	Chronic Lymphocytic Leukemia	hg38/counts/S01FG4H1.ERX1295683.H3K27me3.bwa.GRCh38.20160126.cnt.gz
+5	H3K4me3	Chronic Lymphocytic Leukemia	hg38/counts/S00B2JH1.ERX1104286.H3K4me3.bwa.GRCh38.20151029.cnt.gz
+5	H3K36me3	Chronic Lymphocytic Leukemia	hg38/counts/S00B2JH1.ERX1104289.H3K36me3.bwa.GRCh38.20151029.cnt.gz
+5	H3K9me3	Chronic Lymphocytic Leukemia	hg38/counts/S00B2JH1.ERX1104290.H3K9me3.bwa.GRCh38.20151029.cnt.gz
+5	H3K4me1	Chronic Lymphocytic Leukemia	hg38/counts/S00B2JH1.ERX616984.H3K4me1.bwa.GRCh38.20150528.cnt.gz
+5	H3K27me3	Chronic Lymphocytic Leukemia	hg38/counts/S00B2JH1.ERX616985.H3K27me3.bwa.GRCh38.20150528.cnt.gz
+5	H3K27ac	Chronic Lymphocytic Leukemia	hg38/counts/S00B2JH1.ERX712684.H3K27ac.bwa.GRCh38.20150529.cnt.gz
+5	H3K36me3	Chronic Lymphocytic Leukemia	hg38/counts/S00GPRH1.ERX712656.H3K36me3.bwa.GRCh38.20150529.cnt.gz
+5	H3K4me3	Chronic Lymphocytic Leukemia	hg38/counts/S00GPRH1.ERX712657.H3K4me3.bwa.GRCh38.20150529.cnt.gz
+5	H3K9me3	Chronic Lymphocytic Leukemia	hg38/counts/S00GPRH1.ERX712658.H3K9me3.bwa.GRCh38.20150529.cnt.gz
+5	H3K27me3	Chronic Lymphocytic Leukemia	hg38/counts/S00GPRH1.ERX712659.H3K27me3.bwa.GRCh38.20150529.cnt.gz
+5	H3K27ac	Chronic Lymphocytic Leukemia	hg38/counts/S00GPRH1.ERX712689.H3K27ac.bwa.GRCh38.20150528.cnt.gz
+5	H3K4me1	Chronic Lymphocytic Leukemia	hg38/counts/S00GPRH1.ERX940665.H3K4me1.bwa.GRCh38.20150529.cnt.gz
+5	H3K4me3	Chronic Lymphocytic Leukemia	hg38/counts/S00AXZH1.ERX1104283.H3K4me3.bwa.GRCh38.20151029.cnt.gz
+5	H3K36me3	Chronic Lymphocytic Leukemia	hg38/counts/S00AXZH1.ERX1104285.H3K36me3.bwa.GRCh38.20151029.cnt.gz
+5	H3K27ac	Chronic Lymphocytic Leukemia	hg38/counts/S00AXZH1.ERX1104288.H3K27ac.bwa.GRCh38.20151029.cnt.gz
+5	H3K27me3	Chronic Lymphocytic Leukemia	hg38/counts/S00AXZH1.ERX604487.H3K27me3.bwa.GRCh38.20150528.cnt.gz
+5	H3K9me3	Chronic Lymphocytic Leukemia	hg38/counts/S00AXZH1.ERX712710.H3K9me3.bwa.GRCh38.20150528.cnt.gz
+5	H3K4me1	Chronic Lymphocytic Leukemia	hg38/counts/S00AXZH1.ERX712752.H3K4me1.bwa.GRCh38.20150528.cnt.gz
+5	H3K4me1	Healthy	hg38/counts/S0159LH1.ERX1007461.H3K4me1.bwa.GRCh38.20151029.cnt.gz
+5	H3K9me3	Healthy	hg38/counts/S0159LH1.ERX1007462.H3K9me3.bwa.GRCh38.20151029.cnt.gz
+5	H3K27ac	Healthy	hg38/counts/S0159LH1.ERX1007481.H3K27ac.bwa.GRCh38.20151029.cnt.gz
+5	H3K36me3	Healthy	hg38/counts/S0159LH1.ERX1007482.H3K36me3.bwa.GRCh38.20151029.cnt.gz
+5	H3K27me3	Healthy	hg38/counts/S0159LH1.ERX1007483.H3K27me3.bwa.GRCh38.20151029.cnt.gz
+5	H3K4me3	Healthy	hg38/counts/S0159LH1.ERX1122444.H3K4me3.bwa.GRCh38.20151029.cnt.gz
+5	H3K27me3	Healthy	hg38/counts/S00X9SH1.ERX712739.H3K27me3.bwa.GRCh38.20150529.cnt.gz
+5	H3K36me3	Healthy	hg38/counts/S00X9SH1.ERX712740.H3K36me3.bwa.GRCh38.20150529.cnt.gz
+5	H3K4me1	Healthy	hg38/counts/S00X9SH1.ERX712741.H3K4me1.bwa.GRCh38.20150529.cnt.gz
+5	H3K4me3	Healthy	hg38/counts/S00X9SH1.ERX712777.H3K4me3.bwa.GRCh38.20150529.cnt.gz
+5	H3K27ac	Healthy	hg38/counts/S00X9SH1.ERX712778.H3K27ac.bwa.GRCh38.20150529.cnt.gz
+5	H3K9me3	Healthy	hg38/counts/S00X9SH1.ERX712779.H3K9me3.bwa.GRCh38.20150529.cnt.gz
+5	H3K4me1	Healthy	hg38/counts/S00XAQH1.ERX1295588.H3K4me1.bwa.GRCh38.20160126.cnt.gz
+5	H3K4me3	Healthy	hg38/counts/S00XAQH1.ERX712759.H3K4me3.bwa.GRCh38.20150528.cnt.gz
+5	H3K27ac	Healthy	hg38/counts/S00XAQH1.ERX712760.H3K27ac.bwa.GRCh38.20150529.cnt.gz
+5	H3K36me3	Healthy	hg38/counts/S00XAQH1.ERX712761.H3K36me3.bwa.GRCh38.20150529.cnt.gz
+5	H3K9me3	Healthy	hg38/counts/S00XAQH1.ERX712762.H3K9me3.bwa.GRCh38.20150529.cnt.gz
+5	H3K27me3	Healthy	hg38/counts/S00XAQH1.ERX712763.H3K27me3.bwa.GRCh38.20150529.cnt.gz
+5	H3K27ac	Healthy	hg38/counts/S00W1BH1.ERX712695.H3K27ac.bwa.GRCh38.20150528.cnt.gz
+5	H3K36me3	Healthy	hg38/counts/S00W1BH1.ERX712696.H3K36me3.bwa.GRCh38.20150529.cnt.gz
+5	H3K4me1	Healthy	hg38/counts/S00W1BH1.ERX712697.H3K4me1.bwa.GRCh38.20150528.cnt.gz
+5	H3K9me3	Healthy	hg38/counts/S00W1BH1.ERX712698.H3K9me3.bwa.GRCh38.20150529.cnt.gz
+5	H3K4me3	Healthy	hg38/counts/S00W1BH1.ERX712717.H3K4me3.bwa.GRCh38.20150529.cnt.gz
+5	H3K27me3	Healthy	hg38/counts/S00W1BH1.ERX712775.H3K27me3.bwa.GRCh38.20150529.cnt.gz
+6	H3K4me3	Multiple Myeloma	hg38/counts/S00XDKH1.ERX712764.H3K4me3.bwa.GRCh38.20150529.cnt.gz
+6	H3K27ac	Multiple Myeloma	hg38/counts/S00XDKH1.ERX712765.H3K27ac.bwa.GRCh38.20150529.cnt.gz
+6	H3K4me1	Multiple Myeloma	hg38/counts/S00XDKH1.ERX712766.H3K4me1.bwa.GRCh38.20150529.cnt.gz
+6	H3K36me3	Multiple Myeloma	hg38/counts/S00XDKH1.ERX712767.H3K36me3.bwa.GRCh38.20150529.cnt.gz
+6	H3K9me3	Multiple Myeloma	hg38/counts/S00XDKH1.ERX712768.H3K9me3.bwa.GRCh38.20150529.cnt.gz
+6	H3K27me3	Multiple Myeloma	hg38/counts/S00XDKH1.ERX712769.H3K27me3.bwa.GRCh38.20150529.cnt.gz
+6	H3K27me3	Multiple Myeloma	hg38/counts/S00XCMH1.ERX712712.H3K27me3.bwa.GRCh38.20150529.cnt.gz
+6	H3K4me3	Multiple Myeloma	hg38/counts/S00XCMH1.ERX712716.H3K4me3.bwa.GRCh38.20150528.cnt.gz
+6	H3K36me3	Multiple Myeloma	hg38/counts/S00XCMH1.ERX712718.H3K36me3.bwa.GRCh38.20150529.cnt.gz
+6	H3K4me1	Multiple Myeloma	hg38/counts/S00XCMH1.ERX712719.H3K4me1.bwa.GRCh38.20150529.cnt.gz
+6	H3K27ac	Multiple Myeloma	hg38/counts/S00XCMH1.ERX712720.H3K27ac.bwa.GRCh38.20150529.cnt.gz
+6	H3K9me3	Multiple Myeloma	hg38/counts/S00XCMH1.ERX712721.H3K9me3.bwa.GRCh38.20150529.cnt.gz
+6	H3K4me1	Multiple Myeloma	hg38/counts/S00XEIH1.ERX1007372.H3K4me1.bwa.GRCh38.20151029.cnt.gz
+6	H3K36me3	Multiple Myeloma	hg38/counts/S00XEIH1.ERX1007373.H3K36me3.bwa.GRCh38.20151029.cnt.gz
+6	H3K9me3	Multiple Myeloma	hg38/counts/S00XEIH1.ERX1007374.H3K9me3.bwa.GRCh38.20151029.cnt.gz
+6	H3K27me3	Multiple Myeloma	hg38/counts/S00XEIH1.ERX1007375.H3K27me3.bwa.GRCh38.20151029.cnt.gz
+6	H3K4me3	Multiple Myeloma	hg38/counts/S00XEIH1.ERX1007377.H3K4me3.bwa.GRCh38.20151029.cnt.gz
+6	H3K27ac	Multiple Myeloma	hg38/counts/S00XEIH1.ERX1007378.H3K27ac.bwa.GRCh38.20151029.cnt.gz
+6	H3K9me3	Multiple Myeloma	hg38/counts/S00XFGH1.ERX1122511.H3K9me3.bwa.GRCh38.20151029.cnt.gz
+6	H3K27me3	Multiple Myeloma	hg38/counts/S00XFGH1.ERX1122512.H3K27me3.bwa.GRCh38.20151029.cnt.gz
+6	H3K4me3	Multiple Myeloma	hg38/counts/S00XFGH1.ERX1122527.H3K4me3.bwa.GRCh38.20151029.cnt.gz
+6	H3K4me1	Multiple Myeloma	hg38/counts/S00XFGH1.ERX1122528.H3K4me1.bwa.GRCh38.20151029.cnt.gz
+6	H3K27ac	Multiple Myeloma	hg38/counts/S00XFGH1.ERX1122529.H3K27ac.bwa.GRCh38.20151029.cnt.gz
+6	H3K36me3	Multiple Myeloma	hg38/counts/S00XFGH1.ERX1122530.H3K36me3.bwa.GRCh38.20151029.cnt.gz
+6	H3K4me1	Healthy	hg38/counts/S0159LH1.ERX1007461.H3K4me1.bwa.GRCh38.20151029.cnt.gz
+6	H3K9me3	Healthy	hg38/counts/S0159LH1.ERX1007462.H3K9me3.bwa.GRCh38.20151029.cnt.gz
+6	H3K27ac	Healthy	hg38/counts/S0159LH1.ERX1007481.H3K27ac.bwa.GRCh38.20151029.cnt.gz
+6	H3K36me3	Healthy	hg38/counts/S0159LH1.ERX1007482.H3K36me3.bwa.GRCh38.20151029.cnt.gz
+6	H3K27me3	Healthy	hg38/counts/S0159LH1.ERX1007483.H3K27me3.bwa.GRCh38.20151029.cnt.gz
+6	H3K4me3	Healthy	hg38/counts/S0159LH1.ERX1122444.H3K4me3.bwa.GRCh38.20151029.cnt.gz
+6	H3K27me3	Healthy	hg38/counts/S00X9SH1.ERX712739.H3K27me3.bwa.GRCh38.20150529.cnt.gz
+6	H3K36me3	Healthy	hg38/counts/S00X9SH1.ERX712740.H3K36me3.bwa.GRCh38.20150529.cnt.gz
+6	H3K4me1	Healthy	hg38/counts/S00X9SH1.ERX712741.H3K4me1.bwa.GRCh38.20150529.cnt.gz
+6	H3K4me3	Healthy	hg38/counts/S00X9SH1.ERX712777.H3K4me3.bwa.GRCh38.20150529.cnt.gz
+6	H3K27ac	Healthy	hg38/counts/S00X9SH1.ERX712778.H3K27ac.bwa.GRCh38.20150529.cnt.gz
+6	H3K9me3	Healthy	hg38/counts/S00X9SH1.ERX712779.H3K9me3.bwa.GRCh38.20150529.cnt.gz
+6	H3K4me1	Healthy	hg38/counts/S00XAQH1.ERX1295588.H3K4me1.bwa.GRCh38.20160126.cnt.gz
+6	H3K4me3	Healthy	hg38/counts/S00XAQH1.ERX712759.H3K4me3.bwa.GRCh38.20150528.cnt.gz
+6	H3K27ac	Healthy	hg38/counts/S00XAQH1.ERX712760.H3K27ac.bwa.GRCh38.20150529.cnt.gz
+6	H3K36me3	Healthy	hg38/counts/S00XAQH1.ERX712761.H3K36me3.bwa.GRCh38.20150529.cnt.gz
+6	H3K9me3	Healthy	hg38/counts/S00XAQH1.ERX712762.H3K9me3.bwa.GRCh38.20150529.cnt.gz
+6	H3K27me3	Healthy	hg38/counts/S00XAQH1.ERX712763.H3K27me3.bwa.GRCh38.20150529.cnt.gz
+6	H3K27ac	Healthy	hg38/counts/S00W1BH1.ERX712695.H3K27ac.bwa.GRCh38.20150528.cnt.gz
+6	H3K36me3	Healthy	hg38/counts/S00W1BH1.ERX712696.H3K36me3.bwa.GRCh38.20150529.cnt.gz
+6	H3K4me1	Healthy	hg38/counts/S00W1BH1.ERX712697.H3K4me1.bwa.GRCh38.20150528.cnt.gz
+6	H3K9me3	Healthy	hg38/counts/S00W1BH1.ERX712698.H3K9me3.bwa.GRCh38.20150529.cnt.gz
+6	H3K4me3	Healthy	hg38/counts/S00W1BH1.ERX712717.H3K4me3.bwa.GRCh38.20150529.cnt.gz
+6	H3K27me3	Healthy	hg38/counts/S00W1BH1.ERX712775.H3K27me3.bwa.GRCh38.20150529.cnt.gz
+7	H3K27ac	Healthy	hg38/counts/A34086.CEMT_40.H3K27ac.hg38.bwa-sb.IX2577.C3LU8ACXX_1_CAAAAG.q5.F3332.PET.wig.cnt.gz
+7	H3K27ac	Healthy	hg38/counts/A34385.CEMT_42.H3K27ac.hg38.bwa-sb.IX2579.C3LU8ACXX_3_CTATAC.q5.F3332.PET.wig.cnt.gz
+7	H3K27ac	Healthy	hg38/counts/A34711.CEMT_44.H3K27ac.hg38.bwa-sb.IX2581.C3LU8ACXX_5_TATAAT.q5.F3332.PET.wig.cnt.gz
+7	H3K27ac	Healthy	hg38/counts/A56248.CEMT_86.H3K27ac.hg38.A56248_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+7	H3K27ac	Healthy	hg38/counts/A68894.CEMT_88.H3K27ac.hg38.bwa-sb.IX5123.CAVYBANXX_1_GCCAAT.q5.F3332.PET.wig.cnt.gz
+7	H3K27ac	Healthy	hg38/counts/A68904.CEMT_90.H3K27ac.hg38.bwa-sb.IX5123.CAVYBANXX_1_AATAGG.q5.F3332.PET.wig.cnt.gz
+7	H3K27ac	Healthy	hg38/counts/A68929.CEMT_98.H3K27ac.hg38.bwa-sb.IX5130.CAVYBANXX_8_CCTTAG.q5.F3332.PET.wig.cnt.gz
+7	H3K27ac	Healthy	hg38/counts/A78099.CEMT_130.H3K27ac.hg38.IX5770.CBTEAANXX_1_CGCGGC.q5.F3332.PET.wig.cnt.gz
+7	H3K27ac	Healthy	hg38/counts/A78373.CEMT_132.H3K27ac.hg38.IX5790.CBT1EANXX_1_TACAAG.q5.F3332.PET.wig.cnt.gz
+7	H3K27me3	Healthy	hg38/counts/A34084.CEMT_40.H3K27me3.hg38.bwa-sb.IX2577.C3LU8ACXX_1_ACCCAG.q5.F3332.PET.wig.cnt.gz
+7	H3K27me3	Healthy	hg38/counts/A34383.CEMT_42.H3K27me3.hg38.bwa-sb.IX2579.C3LU8ACXX_3_CAACTA.q5.F3332.PET.wig.cnt.gz
+7	H3K27me3	Healthy	hg38/counts/A34709.CEMT_44.H3K27me3.hg38.bwa-sb.IX2581.C3LU8ACXX_5_CTCAGA.q5.F3332.PET.wig.cnt.gz
+7	H3K27me3	Healthy	hg38/counts/A56246.CEMT_86.H3K27me3.hg38.A56246_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+7	H3K27me3	Healthy	hg38/counts/A66371.CEMT_88.H3K27me3.hg38.bwa-sb.IX5011.CABBTANXX_2_ACCCAG.q5.F3332.PET.wig.cnt.gz
+7	H3K27me3	Healthy	hg38/counts/A66385.CEMT_90.H3K27me3.hg38.bwa-sb.IX5012.CABBTANXX_3_ACCGGC.q5.F3332.PET.wig.cnt.gz
+7	H3K27me3	Healthy	hg38/counts/A68927.CEMT_98.H3K27me3.hg38.bwa-sb.IX5128.CAVYBANXX_6_GAGTGG.q5.F3332.PET.wig.cnt.gz
+7	H3K27me3	Healthy	hg38/counts/A78097.CEMT_130.H3K27me3.hg38.IX5771.CBTTLANXX_1_CAGCAG.q5.F3332.PET.wig.cnt.gz
+7	H3K27me3	Healthy	hg38/counts/A78371.CEMT_132.H3K27me3.hg38.IX5791.CBT1EANXX_2_GCTGTA.q5.F3332.PET.wig.cnt.gz
+7	H3K36me3	Healthy	hg38/counts/A34085.CEMT_40.H3K36me3.hg38.bwa-sb.IX2577.C3LU8ACXX_1_AGCGCT.q5.F3332.PET.wig.cnt.gz
+7	H3K36me3	Healthy	hg38/counts/A34384.CEMT_42.H3K36me3.hg38.bwa-sb.IX2579.C3LU8ACXX_3_CCACGC.q5.F3332.PET.wig.cnt.gz
+7	H3K36me3	Healthy	hg38/counts/A34710.CEMT_44.H3K36me3.hg38.bwa-sb.IX2581.C3LU8ACXX_5_GCACTT.q5.F3332.PET.wig.cnt.gz
+7	H3K36me3	Healthy	hg38/counts/A56247.CEMT_86.H3K36me3.hg38.A56247_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+7	H3K36me3	Healthy	hg38/counts/A68893.CEMT_88.H3K36me3.hg38.bwa-sb.IX5123.CAVYBANXX_1_ACAGTG.q5.F3332.PET.wig.cnt.gz
+7	H3K36me3	Healthy	hg38/counts/A68903.CEMT_90.H3K36me3.hg38.bwa-sb.IX5124.CAVYBANXX_2_AAGGAC.q5.F3332.PET.wig.cnt.gz
+7	H3K36me3	Healthy	hg38/counts/A68928.CEMT_98.H3K36me3.hg38.bwa-sb.IX5128.CAVYBANXX_6_CCGCAA.q5.F3332.PET.wig.cnt.gz
+7	H3K36me3	Healthy	hg38/counts/A78098.CEMT_130.H3K36me3.hg38.IX5771.CBTTLANXX_1_GCATTT.q5.F3332.PET.wig.cnt.gz
+7	H3K36me3	Healthy	hg38/counts/A78372.CEMT_132.H3K36me3.hg38.IX5791.CBT1EANXX_2_CGGCCT.q5.F3332.PET.wig.cnt.gz
+7	H3K4me1	Healthy	hg38/counts/A34081.CEMT_40.H3K4me1.hg38.bwa-sb.IX2577.C3LU8ACXX_1_ATCACG.q5.F3332.PET.wig.cnt.gz
+7	H3K4me1	Healthy	hg38/counts/A34380.CEMT_42.H3K4me1.hg38.bwa-sb.IX2579.C3LU8ACXX_3_AACTTG.q5.F3332.PET.wig.cnt.gz
+7	H3K4me1	Healthy	hg38/counts/A34706.CEMT_44.H3K4me1.hg38.bwa-sb.IX2581.C3LU8ACXX_5_ATAATT.q5.F3332.PET.wig.cnt.gz
+7	H3K4me1	Healthy	hg38/counts/A56243.CEMT_86.H3K4me1.hg38.bwa-sb.IX4132.C8ATRANXX_2_TACAGC.q5.F3332.PET.wig.cnt.gz
+7	H3K4me1	Healthy	hg38/counts/A66368.CEMT_88.H3K4me1.hg38.bwa-sb.IX5011.CABBTANXX_2_ATCACG.q5.F3332.PET.wig.cnt.gz
+7	H3K4me1	Healthy	hg38/counts/A66382.CEMT_90.H3K4me1.hg38.bwa-sb.IX5012.CABBTANXX_3_CGATGT.q5.F3332.PET.wig.cnt.gz
+7	H3K4me1	Healthy	hg38/counts/A68924.CEMT_98.H3K4me1.hg38.bwa-sb.IX5127.CAVYBANXX_5_CCAACA.q5.F3332.PET.wig.cnt.gz
+7	H3K4me1	Healthy	hg38/counts/A78094.CEMT_130.H3K4me1.hg38.IX5770.CBTEAANXX_1_ATGGCA.q5.F3332.PET.wig.cnt.gz
+7	H3K4me1	Healthy	hg38/counts/A78368.CEMT_132.H3K4me1.hg38.IX5790.CBT1EANXX_1_CTTTTG.q5.F3332.PET.wig.cnt.gz
+7	H3K4me3	Healthy	hg38/counts/A34082.CEMT_40.H3K4me3.hg38.bwa-sb.IX2577.C3LU8ACXX_1_GATCAG.q5.F3332.PET.wig.cnt.gz
+7	H3K4me3	Healthy	hg38/counts/A34381.CEMT_42.H3K4me3.hg38.bwa-sb.IX2579.C3LU8ACXX_3_ACCGGC.q5.F3332.PET.wig.cnt.gz
+7	H3K4me3	Healthy	hg38/counts/A34707.CEMT_44.H3K4me3.hg38.bwa-sb.IX2581.C3LU8ACXX_5_CACCGG.q5.F3332.PET.wig.cnt.gz
+7	H3K4me3	Healthy	hg38/counts/A56244.CEMT_86.H3K4me3.hg38.A56244_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+7	H3K4me3	Healthy	hg38/counts/A66369.CEMT_88.H3K4me3.hg38.bwa-sb.IX5010.CABBTANXX_1_GATCAG.q5.F3332.PET.wig.cnt.gz
+7	H3K4me3	Healthy	hg38/counts/A66383.CEMT_90.H3K4me3.hg38.bwa-sb.IX5010.CABBTANXX_1_TAGCTT.q5.F3332.PET.wig.cnt.gz
+7	H3K4me3	Healthy	hg38/counts/A68925.CEMT_98.H3K4me3.hg38.bwa-sb.IX5130.CAVYBANXX_8_CCACGC.q5.F3332.PET.wig.cnt.gz
+7	H3K4me3	Healthy	hg38/counts/A78095.CEMT_130.H3K4me3.hg38.IX5770.CBTEAANXX_1_TCCGTC.q5.F3332.PET.wig.cnt.gz
+7	H3K4me3	Healthy	hg38/counts/A78369.CEMT_132.H3K4me3.hg38.IX5790.CBT1EANXX_1_GCGGAC.q5.F3332.PET.wig.cnt.gz
+7	H3K9me3	Healthy	hg38/counts/A34083.CEMT_40.H3K9me3.hg38.bwa-sb.IX2577.C3LU8ACXX_1_AACCCC.q5.F3332.PET.wig.cnt.gz
+7	H3K9me3	Healthy	hg38/counts/A34382.CEMT_42.H3K9me3.hg38.bwa-sb.IX2579.C3LU8ACXX_3_AGGCCG.q5.F3332.PET.wig.cnt.gz
+7	H3K9me3	Healthy	hg38/counts/A34708.CEMT_44.H3K9me3.hg38.bwa-sb.IX2581.C3LU8ACXX_5_CCCATG.q5.F3332.PET.wig.cnt.gz
+7	H3K9me3	Healthy	hg38/counts/A56245.CEMT_86.H3K9me3.hg38.A56245_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+7	H3K9me3	Healthy	hg38/counts/A66370.CEMT_88.H3K9me3.hg38.bwa-sb.IX5011.CABBTANXX_2_AACCCC.q5.F3332.PET.wig.cnt.gz
+7	H3K9me3	Healthy	hg38/counts/A66384.CEMT_90.H3K9me3.hg38.bwa-sb.IX5012.CABBTANXX_3_AACTTG.q5.F3332.PET.wig.cnt.gz
+7	H3K9me3	Healthy	hg38/counts/A68926.CEMT_98.H3K9me3.hg38.bwa-sb.IX5127.CAVYBANXX_5_CCCATG.q5.F3332.PET.wig.cnt.gz
+7	H3K9me3	Healthy	hg38/counts/A78096.CEMT_130.H3K9me3.hg38.IX5770.CBTEAANXX_1_AGATGT.q5.F3332.PET.wig.cnt.gz
+7	H3K9me3	Healthy	hg38/counts/A78370.CEMT_132.H3K9me3.hg38.IX5790.CBT1EANXX_1_AAACCT.q5.F3332.PET.wig.cnt.gz
+7	H3K27ac	Papillary Carcinoma	hg38/counts/A56255.CEMT_87.H3K27ac.hg38.A56255_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+7	H3K27ac	Papillary Carcinoma	hg38/counts/A68901.CEMT_89.H3K27ac.hg38.bwa-sb.IX5130.CAVYBANXX_8_AAAGCA.q5.F3332.PET.wig.cnt.gz
+7	H3K27ac	Papillary Carcinoma	hg38/counts/A68907.CEMT_91.H3K27ac.hg38.bwa-sb.IX5124.CAVYBANXX_2_AGAAGA.q5.F3332.PET.wig.cnt.gz
+7	H3K27me3	Papillary Carcinoma	hg38/counts/A56253.CEMT_87.H3K27me3.hg38.A56253_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+7	H3K27me3	Papillary Carcinoma	hg38/counts/A68899.CEMT_89.H3K27me3.hg38.bwa-sb.IX5125.CAVYBANXX_3_CTTGTA.q5.F3332.PET.wig.cnt.gz
+7	H3K27me3	Papillary Carcinoma	hg38/counts/A66392.CEMT_91.H3K27me3.hg38.bwa-sb.IX5013.CABBTANXX_4_TACAGC.q5.F3332.PET.wig.cnt.gz
+7	H3K36me3	Papillary Carcinoma	hg38/counts/A56254.CEMT_87.H3K36me3.hg38.A56254_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+7	H3K36me3	Papillary Carcinoma	hg38/counts/A68900.CEMT_89.H3K36me3.hg38.bwa-sb.IX5125.CAVYBANXX_3_AAACAT.q5.F3332.PET.wig.cnt.gz
+7	H3K36me3	Papillary Carcinoma	hg38/counts/A68906.CEMT_91.H3K36me3.hg38.bwa-sb.IX5124.CAVYBANXX_2_ACTGAT.q5.F3332.PET.wig.cnt.gz
+7	H3K4me1	Papillary Carcinoma	hg38/counts/A56250.CEMT_87.H3K4me1.hg38.A56250_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+7	H3K4me1	Papillary Carcinoma	hg38/counts/A68896.CEMT_89.H3K4me1.hg38.bwa-sb.IX5125.CAVYBANXX_3_GATCAG.q5.F3332.PET.wig.cnt.gz
+7	H3K4me1	Papillary Carcinoma	hg38/counts/A66389.CEMT_91.H3K4me1.hg38.bwa-sb.IX5013.CABBTANXX_4_CCACGC.q5.F3332.PET.wig.cnt.gz
+7	H3K4me3	Papillary Carcinoma	hg38/counts/A56251.CEMT_87.H3K4me3.hg38.A56251_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+7	H3K4me3	Papillary Carcinoma	hg38/counts/A68897.CEMT_89.H3K4me3.hg38.bwa-sb.IX5130.CAVYBANXX_8_TAGCTT.q5.F3332.PET.wig.cnt.gz
+7	H3K4me3	Papillary Carcinoma	hg38/counts/A66390.CEMT_91.H3K4me3.hg38.bwa-sb.IX5010.CABBTANXX_1_CTATAC.q5.F3332.PET.wig.cnt.gz
+7	H3K9me3	Papillary Carcinoma	hg38/counts/A56252.CEMT_87.H3K9me3.hg38.A56252_2_lanes_dupsFlagged.q5.F3332.PET.wig.cnt.gz
+7	H3K9me3	Papillary Carcinoma	hg38/counts/A68898.CEMT_89.H3K9me3.hg38.bwa-sb.IX5125.CAVYBANXX_3_GGCTAC.q5.F3332.PET.wig.cnt.gz
+7	H3K9me3	Papillary Carcinoma	hg38/counts/A66391.CEMT_91.H3K9me3.hg38.bwa-sb.IX5013.CABBTANXX_4_GCAAGG.q5.F3332.PET.wig.cnt.gz
