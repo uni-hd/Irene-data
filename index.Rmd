@@ -24,7 +24,7 @@ i <- params$i
 data(markers)
 mk <- c("H3K27ac","H3K27me3","H3K36me3","H3K4me1","H3K4me3","H3K9me3")
 nm <- c("CLL","Glioma","CRC","B-ALL","mCLL","MM","PTC")
-conf <- read.table('res/ChIPdesign.txt',sep='\t', header=TRUE)
+conf <- read.table('ChIPdesign.txt',sep='\t', header=TRUE)
 confs <- split(conf, conf$experiment)
 marker <- markers[[i]]
 hi  <- hic[[i]]
@@ -79,7 +79,7 @@ datatable(data.frame(names(pr), as.numeric(sprintf("%.2f", pr))),rownames=F,coln
 
 __Distribution densities__
 
-```{r dist}
+```{r dist, eval=FALSE}
 matdensity <- function(object, groupFactor, type = "l", 
                        lty = 1, brewer.n = 8, brewer.name = "Dark2", ...){
 
@@ -108,6 +108,7 @@ matdensity(ndata[[i]]$data, confs[[i]]$factor)
 The dPC1 values of the enhancers which interact with the promoters of cancer marker genes. Multiple promoters (if present) are indicated with *\_1*, *\_2*, ...
 
 ```{r enh}
+hi$prom=hi$gene
 hi=data.frame(hi,dat$bed[match(hi$prom,dat$bed[,4]),],dPC1=dat$PC[match(hi$enh,dat$bed[,4]),1])
 hi=hi[hi$seqnames==hi$V1,]
 hi=data.frame(hi[,c('prom','enh','dPC1')],gene=gsub('_\\d+','',hi$prom),d=rowMeans(hi[,c('start','end')])-rowMeans(hi[,c('V2','V3')]))
